@@ -1,0 +1,3 @@
+﻿  Problem 8.cpp
+A:\School\CS\CS4G\Assignments\Assignment 3\Problem 8\Problem 8.cpp(15,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Problem 8.vcxproj -> A:\School\CS\CS4G\Assignments\Assignment 3\Problem 8\x64\Debug\Problem 8.exe
