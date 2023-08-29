@@ -2,6 +2,18 @@
  * a simple program introducing some
  * fundamental programming concepts.
  */
+
+/*
+	[DELETE BEFORE SUBMISSION]
+	ToDo:
+	*Change formula for lucky number
+	*add further inputs. You can make a quiz
+	*Relationship predictor
+	*A not simple calculator for the user to select
+	*Consider storing art in seperate file
+	*That's kind of a dick move though
+	[DELETE BEFORE SUBMISSION]
+*/
 #include<iostream> // include a library
 
 int main()  // main() starts the program
