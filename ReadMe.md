@@ -1,7 +1,5 @@
-This is a repository for assignments in the CS1337 course.
+This is a repository for assignments made for CS Courses.
 
-Assignments contains completed assignments.
+1337 contains completed assignments from the A. Getka course.
 
-Lecture tests stores any code run from the lecture chapters.
-
-Unrelated Lessons (ignore) is a storage for coding assignments I do through alternative sources alongside this.
+CS-120 contains assignments from CS-120.
