@@ -1,0 +1,22 @@
+Script started on 2023-09-01 00:07:01-07:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="82" LINES="52"]
+[?2004h]0;alertwinter@Nigel-PC: /mnt/a/School/CS/CS4G/CS-120/Assignments/Ass_1[01;32malertwinter@Nigel-PC[00m:[01;34m/mnt/a/School/CS/CS4G/CS-120/Assignments/Ass_1[00m$ ./fortune.out [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Kt
+[?2004lEnter your favorite number (no decimals): 1
+Enter a number you don't like (no decimals): 2
+Enter your age (no decimals): -1
+
+Your secret, lucky number is: 99
+
+    Try to be less negative.
+            ________
+           /        \
+          |  O    O  |
+          |          |
+          |  \____/  |
+           \________/
+		
+Press enter to quit.
+
+[?2004h]0;alertwinter@Nigel-PC: /mnt/a/School/CS/CS4G/CS-120/Assignments/Ass_1[01;32malertwinter@Nigel-PC[00m:[01;34m/mnt/a/School/CS/CS4G/CS-120/Assignments/Ass_1[00m$ exit
+[?2004lexit
+
+Script done on 2023-09-01 00:07:15-07:00 [COMMAND_EXIT_CODE="0"]
