@@ -2,8 +2,8 @@
 #include <cstring>
 
 
-int calculate(double num1, double num2, char op) {
-    double result = 0.00000;
+double calculate(double num1, double num2, char op) {
+    double result;
     if(op == '+') {
         result = num1 + num2;
     } else if(op == '-') {
