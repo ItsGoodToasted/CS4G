@@ -1,0 +1,1134 @@
+Script started on 2023-09-15 18:40:32-07:00
+bash-4.4$ ./nim.out
+
+          _     _   _____   _       _
+         |  \  | | |_   _| |  \   /| |
+         | | \ | |   | |   | | \_/ | |
+         | |\ \| |  _| |_  | | \_/ | |
+         |_| \_ _| |_____| |_|     |_|
+      
+1. New Game
+2. Settings
+3. Quit
+Make your choice:
+1
+
+Rules:
+1. The game begins with a pile of 23 sticks
+2. Each player takes turn removing 1-3 sticks from the pile.
+3. To win the game you must be the last player to remove a stick.
+
+Please enter your name:
+Nigel
+Want to play on expert difficulty? (y/n)
+n
+Player 1 enter your move (1-3)
+3
+It's too early to call. This is anyone's game.
+20 sticks remaining.
+Computer removed 2 sticks
+18 sticks remaining.
+Player 1 enter your move (1-3)
+-1
+Illegal move. 
+Enter a new move (1-3)
+2--  00
+Illegal move. 
+Enter a new move (1-3)
+1
+17 sticks remaining.
+Computer removed 2 sticks
+15 sticks remaining.
+Player 1 enter your move (1-3)
+3
+Things are heating up in the NIM arena.
+12 sticks remaining.
+Computer removed 1 sticks
+11 sticks remaining.
+Player 1 enter your move (1-3)
+2
+9 sticks remaining.
+Computer removed 2 sticks
+7 sticks remaining.
+Player 1 enter your move (1-3)
+3
+It's getting down to the wire! I sense victory.
+4 sticks remaining.
+Computer removed 3 sticks
+1 sticks remaining.
+Player 1 enter your move (1-3)
+1
+0 sticks remaining.
+In a crushing defeat, the computer claims a win against Nigel
+Better luck next time
+
+Want to play again with current settings? (y/n)
+y
+Computer removed 2 sticks
+21 sticks remaining.
+Player 1 enter your move (1-3)
+3
+18 sticks remaining.
+Computer removed 2 sticks
+Things are heating up in the NIM arena.
+16 sticks remaining.
+Player 1 enter your move (1-3)
+2
+14 sticks remaining.
+Computer removed 1 sticks
+13 sticks remaining.
+Player 1 enter your move (1-3)
+1
+Things are heating up in the NIM arena.
+12 sticks remaining.
+Computer removed 1 sticks
+11 sticks remaining.
+Player 1 enter your move (1-3)
+3
+8 sticks remaining.
+Computer removed 2 sticks
+6 sticks remaining.
+Player 1 enter your move (1-3)
+3
+It's getting down to the wire! I sense victory.
+3 sticks remaining.
+Computer removed 3 sticks
+0 sticks remaining.
+A great performance and even greater victory from Nigel
+Want to play again with current settings? (y/n)
+n
+
+          _     _   _____   _       _
+         |  \  | | |_   _| |  \   /| |
+         | | \ | |   | |   | | \_/ | |
+         | |\ \| |  _| |_  | | \_/ | |
+         |_| \_ _| |_____| |_|     |_|
+      
+1. New Game
+2. Settings
+3. Quit
+Make your choice:
+1
+
+Rules:
+1. The game begins with a pile of 23 sticks
+2. Each player takes turn removing 1-3 sticks from the pile.
+3. To win the game you must be the last player to remove a stick.
+
+Please enter your name:
+Nig   Frank
+Want to play on expert difficulty? (y/n)
+y
+Player 1 enter your move (1-3)
+3
+It's too early to call. This is anyone's game.
+20 sticks remaining.
+Computer removed 2 sticks
+18 sticks remaining.
+Player 1 enter your move (1-3)
+2
+Things are heating up in the NIM arena.
+16 sticks remaining.
+Computer removed 3 sticks
+13 sticks remaining.
+Player 1 enter your move (1-3)
+3
+10 sticks remaining.
+Computer removed 2 sticks
+8 sticks remaining.
+Player 1 enter your move (1-3)
+1
+7 sticks remaining.
+Computer removed 3 sticks
+It's getting down to the wire! I sense victory.
+4 sticks remaining.
+Player 1 enter your move (1-3)
+1
+It's getting down to the wire! I sense victory.
+3 sticks remaining.
+Computer removed 2 sticks
+1 sticks remaining.
+Player 1 enter your move (1-3)
+1
+0 sticks remaining.
+In a crushing defeat, the computer claims a win against Frank
+Better luck next time
+
+Want to play again with current settings? (y/n)
+y
+Computer removed 2 sticks
+21 sticks remaining.
+Player 1 enter your move (1-3)
+3
+18 sticks remaining.
+Computer removed 1 sticks
+17 sticks remaining.
+Player 1 enter your move (1-3)
+2
+15 sticks remaining.
+Computer removed 1 sticks
+14 sticks remaining.
+Player 1 enter your move (1-3)
+3
+11 sticks remaining.
+Computer removed 2 sticks
+9 sticks remaining.
+Player 1 enter your move (1-3)
+1
+8 sticks remaining.
+Computer removed 2 sticks
+6 sticks remaining.
+Player 1 enter your move (1-3)
+3
+It's getting down to the wire! I sense victory.
+3 sticks remaining.
+Computer removed 2 sticks
+1 sticks remaining.
+Player 1 enter your move (1-3)
+1
+0 sticks remaining.
+In a crushing defeat, the computer claims a win against Frank
+Better luck next time
+
+Want to play again with current settings? (y/n)
+n
+
+          _     _   _____   _       _
+         |  \  | | |_   _| |  \   /| |
+         | | \ | |   | |   | | \_/ | |
+         | |\ \| |  _| |_  | | \_/ | |
+         |_| \_ _| |_____| |_|     |_|
+      
+1. New Game
+2. Settings
+3. Quit
+Make your choice:
+2
+WARNING: Changing settings from defaults is not reccomended for standard play
+1. Size of pile (current setting: 23)
+2. Minimum move (current setting: 1)
+3. Maximum move (current setting: 3)
+4. Return
+Select the options you wish to change:
+1
+Enter the new pile size (Max 99):
+100
+You really think you're gonna play a game of 99 NIM?
+
+          _     _   _____   _       _
+         |  \  | | |_   _| |  \   /| |
+         | | \ | |   | |   | | \_/ | |
+         | |\ \| |  _| |_  | | \_/ | |
+         |_| \_ _| |_____| |_|     |_|
+      
+1. New Game
+2. Settings
+3. Quit
+Make your choice:
+2
+WARNING: Changing settings from defaults is not reccomended for standard play
+1. Size of pile (current setting: 23)
+2. Minimum move (current setting: 1)
+3. Maximum move (current setting: 3)
+4. Return
+Select the options you wish to change:
+1 3
+Enter a new max:
+25
+That's not a valid maximum move
+
+          _     _   _____   _       _
+         |  \  | | |_   _| |  \   /| |
+         | | \ | |   | |   | | \_/ | |
+         | |\ \| |  _| |_  | | \_/ | |
+         |_| \_ _| |_____| |_|     |_|
+      
+1. New Game
+2. Settings
+3. Quit
+Make your choice:
+2
+WARNING: Changing settings from defaults is not reccomended for standard play
+1. Size of pile (current setting: 23)
+2. Minimum move (current setting: 1)
+3. Maximum move (current setting: 3)
+4. Return
+Select the options you wish to change:
+3
+Enter a new max:
+9
+
+          _     _   _____   _       _
+         |  \  | | |_   _| |  \   /| |
+         | | \ | |   | |   | | \_/ | |
+         | |\ \| |  _| |_  | | \_/ | |
+         |_| \_ _| |_____| |_|     |_|
+      
+1. New Game
+2. Settings
+3. Quit
+Make your choice:
+2
+WARNING: Changing settings from defaults is not reccomended for standard play
+1. Size of pile (current setting: 23)
+2. Minimum move (current setting: 1)
+3. Maximum move (current setting: 9)
+4. Return
+Select the options you wish to change:
+1
+Enter the new pile size (Max 99):
+10
+
+          _     _   _____   _       _
+         |  \  | | |_   _| |  \   /| |
+         | | \ | |   | |   | | \_/ | |
+         | |\ \| |  _| |_  | | \_/ | |
+         |_| \_ _| |_____| |_|     |_|
+      
+1. New Game
+2. Settings
+3. Quit
+Make your choice:
+2
+WARNING: Changing settings from defaults is not reccomended for standard play
+1. Size of pile (current setting: 10)
+2. Minimum move (current setting: 1)
+3. Maximum move (current setting: 9)
+4. Return
+Select the options you wish to change:
+1
+Enter the new pile size (Max 99):
+99
+
+          _     _   _____   _       _
+         |  \  | | |_   _| |  \   /| |
+         | | \ | |   | |   | | \_/ | |
+         | |\ \| |  _| |_  | | \_/ | |
+         |_| \_ _| |_____| |_|     |_|
+      
+1. New Game
+2. Settings
+3. Quit
+Make your choice:
+2
+WARNING: Changing settings from defaults is not reccomended for standard play
+1. Size of pile (current setting: 99)
+2. Minimum move (current setting: 1)
+3. Maximum move (current setting: 9)
+4. Return
+Select the options you wish to change:
+2
+Enter the new min:
+10
+That's not a valid minimum move
+
+          _     _   _____   _       _
+         |  \  | | |_   _| |  \   /| |
+         | | \ | |   | |   | | \_/ | |
+         | |\ \| |  _| |_  | | \_/ | |
+         |_| \_ _| |_____| |_|     |_|
+      
+1. New Game
+2. Settings
+3. Quit
+Make your choice:
+2
+WARNING: Changing settings from defaults is not reccomended for standard play
+1. Size of pile (current setting: 99)
+2. Minimum move (current setting: 1)
+3. Maximum move (current setting: 9)
+4. Return
+Select the options you wish to change:
+2
+Enter the new min:
+3
+
+          _     _   _____   _       _
+         |  \  | | |_   _| |  \   /| |
+         | | \ | |   | |   | | \_/ | |
+         | |\ \| |  _| |_  | | \_/ | |
+         |_| \_ _| |_____| |_|     |_|
+      
+1. New Game
+2. Settings
+3. Quit
+Make your choice:
+1
+
+Rules:
+1. The game begins with a pile of 99 sticks
+2. Each player takes turn removing 3-9 sticks from the pile.
+3. To win the game you must be the last player to remove a stick.
+
+Please enter your name:
+312 4159
+Want to play on expert difficulty? (y/n)
+n
+Computer removed 9 sticks
+It's too early to call. This is anyone's game.
+90 sticks remaining.
+Player 1 enter your move (3-9)
+9
+81 sticks remaining.
+Computer removed 9 sticks
+72 sticks remaining.
+Player 1 enter your move (3-9)
+9
+63 sticks remaining.
+Computer removed 7 sticks
+56 sticks remaining.
+Player 1 enter your move (3-9)
+9
+47 sticks remaining.
+Computer removed 7 sticks
+It's too early to call. This is anyone's game.
+40 sticks remaining.
+Player 1 enter your move (3-9)
+9
+31 sticks remaining.
+Computer removed 9 sticks
+22 sticks remaining.
+Player 1 enter your move (3-9)
+9
+13 sticks remaining.
+Computer removed 9 sticks
+It's getting down to the wire! I sense victory.
+4 sticks remaining.
+Player 1 enter your move (3-9)
+9
+Illegal move. 
+Enter a new move (3-9)
+3
+1 sticks remaining.
+1 
+^C
+bash-4.4$ ,/[K[K./nim.out
+
+          _     _   _____   _       _
+         |  \  | | |_   _| |  \   /| |
+         | | \ | |   | |   | | \_/ | |
+         | |\ \| |  _| |_  | | \_/ | |
+         |_| \_ _| |_____| |_|     |_|
+      
+1. New Game
+2. Settings
+3. Quit
+Make your choice:
+2
+WARNING: Changing settings from defaults is not reccomended for standard play
+1. Size of pile (current setting: 23)
+2. Minimum move (current setting: 1)
+3. Maximum move (current setting: 3)
+4. Return
+Select the options you wish to change:
+1
+Enter the new pile size (Max 99):
+99
+
+          _     _   _____   _       _
+         |  \  | | |_   _| |  \   /| |
+         | | \ | |   | |   | | \_/ | |
+         | |\ \| |  _| |_  | | \_/ | |
+         |_| \_ _| |_____| |_|     |_|
+      
+1. New Game
+2. Settings
+3. Quit
+Make your choice:
+1
+
+Rules:
+1. The game begins with a pile of 99 sticks
+2. Each player takes turn removing 1-3 sticks from the pile.
+3. To win the game you must be the last player to remove a stick.
+
+Please enter your name:
+Nigel
+Want to play on expert difficulty? (y/n)
+n
+Player 1 enter your move (1-3)
+1
+Settle in folks. We're in for a long one.
+98 sticks remaining.
+Computer removed 2 sticks
+Settle in folks. We're in for a long one.
+96 sticks remaining.
+Player 1 enter your move (1-3)
+1
+Settle in folks. We're in for a long one.
+95 sticks remaining.
+Computer removed 2 sticks
+Settle in folks. We're in for a long one.
+93 sticks remaining.
+Player 1 enter your move (1-3)
+3
+It's too early to call. This is anyone's game.
+90 sticks remaining.
+Computer removed 1 sticks
+89 sticks remaining.
+Player 1 enter your move (1-3)
+2
+87 sticks remaining.
+Computer removed 2 sticks
+85 sticks remaining.
+Player 1 enter your move (1-3)
+3
+82 sticks remaining.
+Computer removed 3 sticks
+79 sticks remaining.
+Player 1 enter your move (1-3)
+2
+77 sticks remaining.
+Computer removed 2 sticks
+75 sticks remaining.
+Player 1 enter your move (1-3)
+3
+72 sticks remaining.
+Computer removed 2 sticks
+It's too early to call. This is anyone's game.
+70 sticks remaining.
+Player 1 enter your move (1-3)
+9
+Illegal move. 
+Enter a new move (1-3)
+2
+68 sticks remaining.
+Computer removed 1 sticks
+67 sticks remaining.
+Player 1 enter your move (1-3)
+3
+64 sticks remaining.
+Computer removed 1 sticks
+63 sticks remaining.
+Player 1 enter your move (1-3)
+3
+It's too early to call. This is anyone's game.
+60 sticks remaining.
+Computer removed 2 sticks
+58 sticks remaining.
+Player 1 enter your move (1-3)
+3
+55 sticks remaining.
+Computer removed 3 sticks
+52 sticks remaining.
+Player 1 enter your move (1-3)
+3
+49 sticks remaining.
+Computer removed 2 sticks
+47 sticks remaining.
+Player 1 enter your move (1-3)
+3
+44 sticks remaining.
+Computer removed 3 sticks
+41 sticks remaining.
+Player 1 enter your move (1-3)
+2
+39 sticks remaining.
+Computer removed 2 sticks
+37 sticks remaining.
+Player 1 enter your move (1-3)
+^C
+bash-4.4$ ./nim.out
+
+          _     _   _____   _       _
+         |  \  | | |_   _| |  \   /| |
+         | | \ | |   | |   | | \_/ | |
+         | |\ \| |  _| |_  | | \_/ | |
+         |_| \_ _| |_____| |_|     |_|
+      
+1. New Game
+2. Settings
+3. Quit
+Make your choice:
+3 2
+WARNING: Changing settings from defaults is not reccomended for standard play
+1. Size of pile (current setting: 23)
+2. Minimum move (current setting: 1)
+3. Maximum move (current setting: 3)
+4. Return
+Select the options you wish to change:
+4
+
+          _     _   _____   _       _
+         |  \  | | |_   _| |  \   /| |
+         | | \ | |   | |   | | \_/ | |
+         | |\ \| |  _| |_  | | \_/ | |
+         |_| \_ _| |_____| |_|     |_|
+      
+1. New Game
+2. Settings
+3. Quit
+Make your choice:
+3
+Thanks for playing NIM!
+bash-4.4$ exit
+exit
+
+Script done on 2023-09-15 18:44:12-07:00
+Script started on 2023-09-15 18:40:32-07:00
+bash-4.4$ ./nim.out
+
+          _     _   _____   _       _
+         |  \  | | |_   _| |  \   /| |
+         | | \ | |   | |   | | \_/ | |
+         | |\ \| |  _| |_  | | \_/ | |
+         |_| \_ _| |_____| |_|     |_|
+      
+1. New Game
+2. Settings
+3. Quit
+Make your choice:
+1
+
+Rules:
+1. The game begins with a pile of 23 sticks
+2. Each player takes turn removing 1-3 sticks from the pile.
+3. To win the game you must be the last player to remove a stick.
+
+Please enter your name:
+Nigel
+Want to play on expert difficulty? (y/n)
+n
+Player 1 enter your move (1-3)
+3
+It's too early to call. This is anyone's game.
+20 sticks remaining.
+Computer removed 2 sticks
+18 sticks remaining.
+Player 1 enter your move (1-3)
+-1
+Illegal move. 
+Enter a new move (1-3)
+2--  00
+Illegal move. 
+Enter a new move (1-3)
+1
+17 sticks remaining.
+Computer removed 2 sticks
+15 sticks remaining.
+Player 1 enter your move (1-3)
+3
+Things are heating up in the NIM arena.
+12 sticks remaining.
+Computer removed 1 sticks
+11 sticks remaining.
+Player 1 enter your move (1-3)
+2
+9 sticks remaining.
+Computer removed 2 sticks
+7 sticks remaining.
+Player 1 enter your move (1-3)
+3
+It's getting down to the wire! I sense victory.
+4 sticks remaining.
+Computer removed 3 sticks
+1 sticks remaining.
+Player 1 enter your move (1-3)
+1
+0 sticks remaining.
+In a crushing defeat, the computer claims a win against Nigel
+Better luck next time
+
+Want to play again with current settings? (y/n)
+y
+Computer removed 2 sticks
+21 sticks remaining.
+Player 1 enter your move (1-3)
+3
+18 sticks remaining.
+Computer removed 2 sticks
+Things are heating up in the NIM arena.
+16 sticks remaining.
+Player 1 enter your move (1-3)
+2
+14 sticks remaining.
+Computer removed 1 sticks
+13 sticks remaining.
+Player 1 enter your move (1-3)
+1
+Things are heating up in the NIM arena.
+12 sticks remaining.
+Computer removed 1 sticks
+11 sticks remaining.
+Player 1 enter your move (1-3)
+3
+8 sticks remaining.
+Computer removed 2 sticks
+6 sticks remaining.
+Player 1 enter your move (1-3)
+3
+It's getting down to the wire! I sense victory.
+3 sticks remaining.
+Computer removed 3 sticks
+0 sticks remaining.
+A great performance and even greater victory from Nigel
+Want to play again with current settings? (y/n)
+n
+
+          _     _   _____   _       _
+         |  \  | | |_   _| |  \   /| |
+         | | \ | |   | |   | | \_/ | |
+         | |\ \| |  _| |_  | | \_/ | |
+         |_| \_ _| |_____| |_|     |_|
+      
+1. New Game
+2. Settings
+3. Quit
+Make your choice:
+1
+
+Rules:
+1. The game begins with a pile of 23 sticks
+2. Each player takes turn removing 1-3 sticks from the pile.
+3. To win the game you must be the last player to remove a stick.
+
+Please enter your name:
+Nig   Frank
+Want to play on expert difficulty? (y/n)
+y
+Player 1 enter your move (1-3)
+3
+It's too early to call. This is anyone's game.
+20 sticks remaining.
+Computer removed 2 sticks
+18 sticks remaining.
+Player 1 enter your move (1-3)
+2
+Things are heating up in the NIM arena.
+16 sticks remaining.
+Computer removed 3 sticks
+13 sticks remaining.
+Player 1 enter your move (1-3)
+3
+10 sticks remaining.
+Computer removed 2 sticks
+8 sticks remaining.
+Player 1 enter your move (1-3)
+1
+7 sticks remaining.
+Computer removed 3 sticks
+It's getting down to the wire! I sense victory.
+4 sticks remaining.
+Player 1 enter your move (1-3)
+1
+It's getting down to the wire! I sense victory.
+3 sticks remaining.
+Computer removed 2 sticks
+1 sticks remaining.
+Player 1 enter your move (1-3)
+1
+0 sticks remaining.
+In a crushing defeat, the computer claims a win against Frank
+Better luck next time
+
+Want to play again with current settings? (y/n)
+y
+Computer removed 2 sticks
+21 sticks remaining.
+Player 1 enter your move (1-3)
+3
+18 sticks remaining.
+Computer removed 1 sticks
+17 sticks remaining.
+Player 1 enter your move (1-3)
+2
+15 sticks remaining.
+Computer removed 1 sticks
+14 sticks remaining.
+Player 1 enter your move (1-3)
+3
+11 sticks remaining.
+Computer removed 2 sticks
+9 sticks remaining.
+Player 1 enter your move (1-3)
+1
+8 sticks remaining.
+Computer removed 2 sticks
+6 sticks remaining.
+Player 1 enter your move (1-3)
+3
+It's getting down to the wire! I sense victory.
+3 sticks remaining.
+Computer removed 2 sticks
+1 sticks remaining.
+Player 1 enter your move (1-3)
+1
+0 sticks remaining.
+In a crushing defeat, the computer claims a win against Frank
+Better luck next time
+
+Want to play again with current settings? (y/n)
+n
+
+          _     _   _____   _       _
+         |  \  | | |_   _| |  \   /| |
+         | | \ | |   | |   | | \_/ | |
+         | |\ \| |  _| |_  | | \_/ | |
+         |_| \_ _| |_____| |_|     |_|
+      
+1. New Game
+2. Settings
+3. Quit
+Make your choice:
+2
+WARNING: Changing settings from defaults is not reccomended for standard play
+1. Size of pile (current setting: 23)
+2. Minimum move (current setting: 1)
+3. Maximum move (current setting: 3)
+4. Return
+Select the options you wish to change:
+1
+Enter the new pile size (Max 99):
+100
+You really think you're gonna play a game of 99 NIM?
+
+          _     _   _____   _       _
+         |  \  | | |_   _| |  \   /| |
+         | | \ | |   | |   | | \_/ | |
+         | |\ \| |  _| |_  | | \_/ | |
+         |_| \_ _| |_____| |_|     |_|
+      
+1. New Game
+2. Settings
+3. Quit
+Make your choice:
+2
+WARNING: Changing settings from defaults is not reccomended for standard play
+1. Size of pile (current setting: 23)
+2. Minimum move (current setting: 1)
+3. Maximum move (current setting: 3)
+4. Return
+Select the options you wish to change:
+1 3
+Enter a new max:
+25
+That's not a valid maximum move
+
+          _     _   _____   _       _
+         |  \  | | |_   _| |  \   /| |
+         | | \ | |   | |   | | \_/ | |
+         | |\ \| |  _| |_  | | \_/ | |
+         |_| \_ _| |_____| |_|     |_|
+      
+1. New Game
+2. Settings
+3. Quit
+Make your choice:
+2
+WARNING: Changing settings from defaults is not reccomended for standard play
+1. Size of pile (current setting: 23)
+2. Minimum move (current setting: 1)
+3. Maximum move (current setting: 3)
+4. Return
+Select the options you wish to change:
+3
+Enter a new max:
+9
+
+          _     _   _____   _       _
+         |  \  | | |_   _| |  \   /| |
+         | | \ | |   | |   | | \_/ | |
+         | |\ \| |  _| |_  | | \_/ | |
+         |_| \_ _| |_____| |_|     |_|
+      
+1. New Game
+2. Settings
+3. Quit
+Make your choice:
+2
+WARNING: Changing settings from defaults is not reccomended for standard play
+1. Size of pile (current setting: 23)
+2. Minimum move (current setting: 1)
+3. Maximum move (current setting: 9)
+4. Return
+Select the options you wish to change:
+1
+Enter the new pile size (Max 99):
+10
+
+          _     _   _____   _       _
+         |  \  | | |_   _| |  \   /| |
+         | | \ | |   | |   | | \_/ | |
+         | |\ \| |  _| |_  | | \_/ | |
+         |_| \_ _| |_____| |_|     |_|
+      
+1. New Game
+2. Settings
+3. Quit
+Make your choice:
+2
+WARNING: Changing settings from defaults is not reccomended for standard play
+1. Size of pile (current setting: 10)
+2. Minimum move (current setting: 1)
+3. Maximum move (current setting: 9)
+4. Return
+Select the options you wish to change:
+1
+Enter the new pile size (Max 99):
+99
+
+          _     _   _____   _       _
+         |  \  | | |_   _| |  \   /| |
+         | | \ | |   | |   | | \_/ | |
+         | |\ \| |  _| |_  | | \_/ | |
+         |_| \_ _| |_____| |_|     |_|
+      
+1. New Game
+2. Settings
+3. Quit
+Make your choice:
+2
+WARNING: Changing settings from defaults is not reccomended for standard play
+1. Size of pile (current setting: 99)
+2. Minimum move (current setting: 1)
+3. Maximum move (current setting: 9)
+4. Return
+Select the options you wish to change:
+2
+Enter the new min:
+10
+That's not a valid minimum move
+
+          _     _   _____   _       _
+         |  \  | | |_   _| |  \   /| |
+         | | \ | |   | |   | | \_/ | |
+         | |\ \| |  _| |_  | | \_/ | |
+         |_| \_ _| |_____| |_|     |_|
+      
+1. New Game
+2. Settings
+3. Quit
+Make your choice:
+2
+WARNING: Changing settings from defaults is not reccomended for standard play
+1. Size of pile (current setting: 99)
+2. Minimum move (current setting: 1)
+3. Maximum move (current setting: 9)
+4. Return
+Select the options you wish to change:
+2
+Enter the new min:
+3
+
+          _     _   _____   _       _
+         |  \  | | |_   _| |  \   /| |
+         | | \ | |   | |   | | \_/ | |
+         | |\ \| |  _| |_  | | \_/ | |
+         |_| \_ _| |_____| |_|     |_|
+      
+1. New Game
+2. Settings
+3. Quit
+Make your choice:
+1
+
+Rules:
+1. The game begins with a pile of 99 sticks
+2. Each player takes turn removing 3-9 sticks from the pile.
+3. To win the game you must be the last player to remove a stick.
+
+Please enter your name:
+312 4159
+Want to play on expert difficulty? (y/n)
+n
+Computer removed 9 sticks
+It's too early to call. This is anyone's game.
+90 sticks remaining.
+Player 1 enter your move (3-9)
+9
+81 sticks remaining.
+Computer removed 9 sticks
+72 sticks remaining.
+Player 1 enter your move (3-9)
+9
+63 sticks remaining.
+Computer removed 7 sticks
+56 sticks remaining.
+Player 1 enter your move (3-9)
+9
+47 sticks remaining.
+Computer removed 7 sticks
+It's too early to call. This is anyone's game.
+40 sticks remaining.
+Player 1 enter your move (3-9)
+9
+31 sticks remaining.
+Computer removed 9 sticks
+22 sticks remaining.
+Player 1 enter your move (3-9)
+9
+13 sticks remaining.
+Computer removed 9 sticks
+It's getting down to the wire! I sense victory.
+4 sticks remaining.
+Player 1 enter your move (3-9)
+9
+Illegal move. 
+Enter a new move (3-9)
+3
+1 sticks remaining.
+1 
+^C
+bash-4.4$ ,/[K[K./nim.out
+
+          _     _   _____   _       _
+         |  \  | | |_   _| |  \   /| |
+         | | \ | |   | |   | | \_/ | |
+         | |\ \| |  _| |_  | | \_/ | |
+         |_| \_ _| |_____| |_|     |_|
+      
+1. New Game
+2. Settings
+3. Quit
+Make your choice:
+2
+WARNING: Changing settings from defaults is not reccomended for standard play
+1. Size of pile (current setting: 23)
+2. Minimum move (current setting: 1)
+3. Maximum move (current setting: 3)
+4. Return
+Select the options you wish to change:
+1
+Enter the new pile size (Max 99):
+99
+
+          _     _   _____   _       _
+         |  \  | | |_   _| |  \   /| |
+         | | \ | |   | |   | | \_/ | |
+         | |\ \| |  _| |_  | | \_/ | |
+         |_| \_ _| |_____| |_|     |_|
+      
+1. New Game
+2. Settings
+3. Quit
+Make your choice:
+1
+
+Rules:
+1. The game begins with a pile of 99 sticks
+2. Each player takes turn removing 1-3 sticks from the pile.
+3. To win the game you must be the last player to remove a stick.
+
+Please enter your name:
+Nigel
+Want to play on expert difficulty? (y/n)
+n
+Player 1 enter your move (1-3)
+1
+Settle in folks. We're in for a long one.
+98 sticks remaining.
+Computer removed 2 sticks
+Settle in folks. We're in for a long one.
+96 sticks remaining.
+Player 1 enter your move (1-3)
+1
+Settle in folks. We're in for a long one.
+95 sticks remaining.
+Computer removed 2 sticks
+Settle in folks. We're in for a long one.
+93 sticks remaining.
+Player 1 enter your move (1-3)
+3
+It's too early to call. This is anyone's game.
+90 sticks remaining.
+Computer removed 1 sticks
+89 sticks remaining.
+Player 1 enter your move (1-3)
+2
+87 sticks remaining.
+Computer removed 2 sticks
+85 sticks remaining.
+Player 1 enter your move (1-3)
+3
+82 sticks remaining.
+Computer removed 3 sticks
+79 sticks remaining.
+Player 1 enter your move (1-3)
+2
+77 sticks remaining.
+Computer removed 2 sticks
+75 sticks remaining.
+Player 1 enter your move (1-3)
+3
+72 sticks remaining.
+Computer removed 2 sticks
+It's too early to call. This is anyone's game.
+70 sticks remaining.
+Player 1 enter your move (1-3)
+9
+Illegal move. 
+Enter a new move (1-3)
+2
+68 sticks remaining.
+Computer removed 1 sticks
+67 sticks remaining.
+Player 1 enter your move (1-3)
+3
+64 sticks remaining.
+Computer removed 1 sticks
+63 sticks remaining.
+Player 1 enter your move (1-3)
+3
+It's too early to call. This is anyone's game.
+60 sticks remaining.
+Computer removed 2 sticks
+58 sticks remaining.
+Player 1 enter your move (1-3)
+3
+55 sticks remaining.
+Computer removed 3 sticks
+52 sticks remaining.
+Player 1 enter your move (1-3)
+3
+49 sticks remaining.
+Computer removed 2 sticks
+47 sticks remaining.
+Player 1 enter your move (1-3)
+3
+44 sticks remaining.
+Computer removed 3 sticks
+41 sticks remaining.
+Player 1 enter your move (1-3)
+2
+39 sticks remaining.
+Computer removed 2 sticks
+37 sticks remaining.
+Player 1 enter your move (1-3)
+^C
+bash-4.4$ ./nim.out
+
+          _     _   _____   _       _
+         |  \  | | |_   _| |  \   /| |
+         | | \ | |   | |   | | \_/ | |
+         | |\ \| |  _| |_  | | \_/ | |
+         |_| \_ _| |_____| |_|     |_|
+      
+1. New Game
+2. Settings
+3. Quit
+Make your choice:
+3 2
+WARNING: Changing settings from defaults is not reccomended for standard play
+1. Size of pile (current setting: 23)
+2. Minimum move (current setting: 1)
+3. Maximum move (current setting: 3)
+4. Return
+Select the options you wish to change:
+4
+
+          _     _   _____   _       _
+         |  \  | | |_   _| |  \   /| |
+         | | \ | |   | |   | | \_/ | |
+         | |\ \| |  _| |_  | | \_/ | |
+         |_| \_ _| |_____| |_|     |_|
+      
+1. New Game
+2. Settings
+3. Quit
+Make your choice:
+3
+Thanks for playing NIM!
+bash-4.4$ exit
+exit
+
+Script done on 2023-09-15 18:44:12-07:00
