@@ -10,17 +10,39 @@
 // There should be some global score variable like gold or oxygen remaining
 // Include a final boss of sorts somehow
 
+/* TODO:
+    1. Expand room functions:
+        determine entry and exit
+        determine flavor
+        determine interactables
+    2. Expand Agnes
+        define combat behavior
+        define dungeon entry requirements
+        Ensure knife allows more damage
+        Ensure Agnes health == 200
+    3. Map secrets
+    4. Save/Load is optional
+        It's a dumb fucking idea
+        But also cool
+
+*/
+
+
 #include <iostream>
 #include <string>
 #include <fstream>
+int agnes_health = 9999;
 
-int player_health = 100;
-int secrets_found;
-int agnes_health = 100;
-int bandage = 0;
-char secrets[5];
+class Traits {
+    public:
+        int room;
+        int health = 100;
+        bool secrets[5] = {0, 0, 0, 0, 0};
+        int found;
+        int bandage = 0;
+};
 
-void mainMenu(int currentRoom) {
+void mainMenu(Traits& player) { 
     std::cout << "Hell House\n" << std::endl; //Put art here
     std::cout << "1. New Game" << std::endl;
     std::cout << "2. Load Game" << std::endl; // Consider scrapping
@@ -31,7 +53,8 @@ void mainMenu(int currentRoom) {
 
     switch(menu_choice) {
         case 1:
-            currentRoom = 1;
+            player.room = 1;
+            break;
         case 2:
 
         case 3:
@@ -39,38 +62,91 @@ void mainMenu(int currentRoom) {
 }
 
 
-void loadGame(int currentRoom, int health, int bandages, char* secrets[5], bool totem ) {}
+void loadGame(int currentRoom, int health, int bandages, bool totem ) {}
 
 void saveGame(int currentRoom, int health, int secrets) {}
 
-void displaySecrets(char secrets[5]){}
-
-int livingRoom_1(){}
-
-int kitchen_2(){}
-
-int bedRoom_3(){}
-
-int bathRoom_4(){}
-
-int backYard_5(){}
-
-int outcrop_5(){}
-
-int cellar_6(){}
-
-int bossRoom_7(){}
-
-int wellBottom_8(){}
-
-int main() {
-
-    do { //Main Menu Loop
-
-    }
-
+void displaySecrets(){
 
 }
+
+int livingRoom_1(Traits& player) {
+
+}
+
+int kitchen_2(Traits& player) {
+    
+}
+
+int bedRoom_3(Traits& player) {
+
+}
+
+int bathRoom_4(Traits& player) {
+
+}
+
+int backYard_5(Traits& player) {
+
+}
+
+int outcrop_5(Traits& player) {
+
+}
+
+int cellar_6(Traits& player) {
+
+}
+
+int bossRoom_7(Traits& player, int boss_health) {
+
+}
+
+int wellBottom_8(Traits& player) {
+    
+}
+
+int main() {
+    Traits player;
+
+    mainMenu(player);
+
+    do { //Main Menu Loop
+        
+
+        switch(player.room) {
+            
+            case 1:
+                livingRoom_1(player);
+                break;
+            case 2:
+                kitchen_2(player);
+                break;
+            case 3:
+                bedRoom_3(player);
+                break;
+            case 4:
+                bathRoom_4(player);
+                break;
+            case 5:
+                backYard_5(player);
+                break;
+            case 6:
+                cellar_6(player);
+                break;
+            case 7:
+                bossRoom_7(player, agnes_health);
+                break;
+            case 8:
+                wellBottom_8(player);
+                break;
+
+
+
+        }
+    
+    
+    } while(true);
 
 
 
