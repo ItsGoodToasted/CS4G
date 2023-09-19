@@ -71,39 +71,214 @@ void displaySecrets(){
 }
 
 int livingRoom_1(Traits& player) {
+    int choice = 0;
+    std::cout << "Ipsum Lorum" << std::endl;
+    std::cin >> choice;
+
+    switch(choice) {
+        case 1:
+            std::cout << "Impsum Lorum" << std::endl;
+        case 2:
+            std::cout << "Impsum Lorum" << std::endl;
+        case 3:
+            std::cout << "Impsum Lorum" << std::endl;
+        case 4:
+            std::cout << "Impsum Lorum" << std::endl;
+            player.room = 2;
+        case 5:
+            std::cout << "Impsum Lorum" << std::endl; 
+    }
 
 }
 
 int kitchen_2(Traits& player) {
-    
+
+    int choice = 0;
+    std::cout << "Ipsum Lorum" << std::endl;
+    std::cout << "You notice:\n(1) Couch\n (2) Front Door\n(3) Coffee Table\n" << std::endl;
+    if(player.secrets[3]) {
+        std::cout << "Exits Available: (4) Kitchen\n (5) Bookshelf Passage" << std::endl;
+    } else{
+        std::cout << "Exits Available: (4) Kitchen" << std::endl;
+    }
+    std::cin >> choice;
+
+    switch(choice) {
+        case 1:
+        case 2:
+        case 3:
+        case 4:
+        case 5:
+    }
 }
 
 int bedRoom_3(Traits& player) {
+    int choice = 0;
+    std::cout << "Ipsum Lorum" << std::endl;
+    std::cout << "You notice:\n(1) Couch\n (2) Front Door\n(3) Coffee Table\n" << std::endl;
+    if(player.secrets[3]) {
+        std::cout << "Exits Available: (4) Kitchen\n (5) Bookshelf Passage" << std::endl;
+    } else{
+        std::cout << "Exits Available: (4) Kitchen" << std::endl;
+    }
+    std::cin >> choice;
+
+    switch(choice) {
+        case 1:
+        case 2:
+        case 3:
+        case 4:
+        case 5:
+    }
 
 }
 
 int bathRoom_4(Traits& player) {
+    
+   int choice = 0;
+    std::cout << "Ipsum Lorum" << std::endl;
+    std::cout << "You notice:\n(1) Couch\n (2) Front Door\n(3) Coffee Table\n" << std::endl;
+    if(player.secrets[3]) {
+        std::cout << "Exits Available: (4) Kitchen\n (5) Bookshelf Passage" << std::endl;
+    } else{
+        std::cout << "Exits Available: (4) Kitchen" << std::endl;
+    }
+    std::cin >> choice;
 
+    switch(choice) {
+        case 1:
+        case 2:
+        case 3:
+        case 4:
+        case 5:
+    }
 }
 
 int backYard_5(Traits& player) {
 
+    int choice = 0;
+    std::cout << "Ipsum Lorum" << std::endl;
+    std::cout << "You notice:\n(1) Couch\n (2) Front Door\n(3) Coffee Table\n" << std::endl;
+    if(player.secrets[3]) {
+        std::cout << "Exits Available: (4) Kitchen\n (5) Bookshelf Passage" << std::endl;
+    } else{
+        std::cout << "Exits Available: (4) Kitchen" << std::endl;
+    }
+    std::cin >> choice;
+
+    switch(choice) {
+        case 1:
+        case 2:
+        case 3:
+        case 4:
+        case 5:
+    }
 }
 
-int outcrop_5(Traits& player) {
+int outcrop_6(Traits& player) {
 
+   int choice = 0;
+    std::cout << "Ipsum Lorum" << std::endl;
+    std::cout << "You notice:\n(1) Couch\n (2) Front Door\n(3) Coffee Table\n" << std::endl;
+    if(player.secrets[3]) {
+        std::cout << "Exits Available: (4) Kitchen\n (5) Bookshelf Passage" << std::endl;
+    } else{
+        std::cout << "Exits Available: (4) Kitchen" << std::endl;
+    }
+    std::cin >> choice;
+
+    switch(choice) {
+        case 1:
+        case 2:
+        case 3:
+        case 4:
+        case 5:
+    }
 }
 
-int cellar_6(Traits& player) {
+int ritualRoom_7(Traits& player) {
 
+    int choice = 0;
+    std::cout << "Ipsum Lorum" << std::endl;
+    std::cout << "You notice:\n(1) Couch\n (2) Front Door\n(3) Coffee Table\n" << std::endl;
+    if(player.secrets[3]) {
+        std::cout << "Exits Available: (4) Kitchen\n (5) Bookshelf Passage" << std::endl;
+    } else{
+        std::cout << "Exits Available: (4) Kitchen" << std::endl;
+    }
+    std::cin >> choice;
+
+    switch(choice) {
+        case 1:
+        case 2:
+        case 3:
+        case 4:
+        case 5:
+    }
 }
 
-int bossRoom_7(Traits& player, int boss_health) {
 
+int cellar_8(Traits& player) {
+
+    int choice = 0;
+    std::cout << "Ipsum Lorum" << std::endl;
+    std::cout << "You notice:\n(1) Couch\n (2) Front Door\n(3) Coffee Table\n" << std::endl;
+    if(player.secrets[3]) {
+        std::cout << "Exits Available: (4) Kitchen\n (5) Bookshelf Passage" << std::endl;
+    } else{
+        std::cout << "Exits Available: (4) Kitchen" << std::endl;
+    }
+    std::cin >> choice;
+
+    switch(choice) {
+        case 1:
+        case 2:
+        case 3:
+        case 4:
+        case 5:
+    }
 }
 
-int wellBottom_8(Traits& player) {
-    
+int bossRoom_9(Traits& player, int boss_health) {
+
+    int choice = 0;
+    std::cout << "Ipsum Lorum" << std::endl;
+    std::cout << "You notice:\n(1) Couch\n (2) Front Door\n(3) Coffee Table\n" << std::endl;
+    if(player.secrets[3]) {
+        std::cout << "Exits Available: (4) Kitchen\n (5) Bookshelf Passage" << std::endl;
+    } else{
+        std::cout << "Exits Available: (4) Kitchen" << std::endl;
+    }
+    std::cin >> choice;
+
+    switch(choice) {
+        case 1:
+        case 2:
+        case 3:
+        case 4:
+        case 5:
+    }
+}
+
+int wellBottom_10(Traits& player) {
+
+    int choice = 0;
+    std::cout << "Ipsum Lorum" << std::endl;
+    std::cout << "You notice:\n(1) Couch\n (2) Front Door\n(3) Coffee Table\n" << std::endl;
+    if(player.secrets[3]) {
+        std::cout << "Exits Available: (4) Kitchen\n (5) Bookshelf Passage" << std::endl;
+    } else{
+        std::cout << "Exits Available: (4) Kitchen" << std::endl;
+    }
+    std::cin >> choice;
+
+    switch(choice) {
+        case 1:
+        case 2:
+        case 3:
+        case 4:
+        case 5:
+    }
 }
 
 int main() {
@@ -132,14 +307,19 @@ int main() {
                 backYard_5(player);
                 break;
             case 6:
-                cellar_6(player);
+                outcrop_6(player);
                 break;
             case 7:
-                bossRoom_7(player, agnes_health);
+                ritualRoom_7(player);
                 break;
             case 8:
-                wellBottom_8(player);
+                cellar_8(player);
                 break;
+            case 9:
+                bossRoom_9(player, agnes_health);
+            case 10:
+                wellBottom_10(player);
+            default:
 
 
 
