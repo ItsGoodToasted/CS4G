@@ -2,18 +2,17 @@
 #include <string>
 
 class pet {
-    int health; //default 100
-    int hunger; //default 100
-    std::string name;
-    std::string species;
-    std::string color;
-    std::string size;
-
     public:
-    pet();
-    void speciesSelect();
-    void petInfo();
-    void feed();
+        int health; //default 100
+        int hunger; //default 100
+        std::string name;
+        std::string species;
+        std::string color;
+        std::string size;
+        pet();
+        void speciesSelect(std::string);
+        void petInfo();
+        void feed();
 };
 
     pet::pet() {
@@ -22,8 +21,8 @@ class pet {
 
         std::cout << "What is the name of your pet?" << std::endl;
         std::getline(std::cin, name);
-        speciesSelect();
-
+        speciesSelect(species);
+        
 
     }
 
@@ -31,14 +30,15 @@ int main() {
 
 }
 
-void speciesSelect() {
+void speciesSelect(std::string species) {
     int selection;
-    std::string species[6] = {"Cat", "Wolf", "Spider","Crow","Bat","Ghost"};
-    std::cout << "What species do you want your pet to be?" << std::endl;
+    std::string speciesList[6] = {"Cat", "Wolf", "Spider","Crow","Bat","Ghost"};
     for (int i = 0; i < 6; i++) {
-        std::cout << i << '.' << species[i] << std::endl;    
+        std::cout << i << '.' << speciesList[i] << std::endl;    
     }
-    std::getline(std::cin, selection);
+    std::cout << "What species do you want your pet to be?" << std::endl;
+    std::cin >> selection;
+    species = speciesList[selection];
 }
 
 
