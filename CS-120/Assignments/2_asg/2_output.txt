@@ -1,0 +1,229 @@
+Script started on 2023-09-08 18:08:27-07:00
+bash-4.4$ ./calu[Kculator.out [K
+Welcome to the basic calculator.
+This calculator currently supports 5 different operations on 2 operands.
+Let's get started.
+Give me some information:
+What is your first number?
+37
+And the second number?
+58
+What operation will I be performing on these today:
+(e.g. input "/" for division)
+Addition (+)
+Subtraction (-)
+Multiplication (*)
+Division (/)
+exponentials (^)
+
++
+Your result is : 37 + 58 = 95
+bash-4.4$ ./calculator.out
+Welcome to the basic calculator.
+This calculator currently supports 5 different operations on 2 operands.
+Let's get started.
+Give me some information:
+What is your first number?
+37.  .114158 9     4159
+And the second number?
+2.71828
+What operation will I be performing on these today:
+(e.g. input "/" for division)
+Addition (+)
+Subtraction (-)
+Multiplication (*)
+Division (/)
+exponentials (^)
+
++
+Your result is : 3.14159 + 2.71828 = 5.85987
+bash-4.4$ ./calculator.out
+Welcome to the basic calculator.
+This calculator currently supports 5 different operations on 2 operands.
+Let's get started.
+Give me some information:
+What is your first number?
+235
+And the second number?
+35 6
+What operation will I be performing on these today:
+(e.g. input "/" for division)
+Addition (+)
+Subtraction (-)
+Multiplication (*)
+Division (/)
+exponentials (^)
+
+-
+Your result is : 235 - 36 = 199
+bash-4.4$ ./calculator.out
+Welcome to the basic calculator.
+This calculator currently supports 5 different operations on 2 operands.
+Let's get started.
+Give me some information:
+What is your first number?
+6
+And the second number?
+9
+What operation will I be performing on these today:
+(e.g. input "/" for division)
+Addition (+)
+Subtraction (-)
+Multiplication (*)
+Division (/)
+exponentials (^)
+
+*
+Your result is : 6 * 9 = 54
+bash-4.4$ ./calculator.out
+Welcome to the basic calculator.
+This calculator currently supports 5 different operations on 2 operands.
+Let's get started.
+Give me some information:
+What is your first number?
+5
+And the second number?
+2
+What operation will I be performing on these today:
+(e.g. input "/" for division)
+Addition (+)
+Subtraction (-)
+Multiplication (*)
+Division (/)
+exponentials (^)
+
+/
+Your result is : 5 / 2 = 2.5
+bash-4.4$ ./calculator.out
+Welcome to the basic calculator.
+This calculator currently supports 5 different operations on 2 operands.
+Let's get started.
+Give me some information:
+What is your first number?
+2
+And the second number?
+3
+What operation will I be performing on these today:
+(e.g. input "/" for division)
+Addition (+)
+Subtraction (-)
+Multiplication (*)
+Division (/)
+exponentials (^)
+
+^
+Your result is : 2 ^ 3 = 8
+bash-4.4$ ./calculator.out
+Welcome to the basic calculator.
+This calculator currently supports 5 different operations on 2 operands.
+Let's get started.
+Give me some information:
+What is your first number?
+5
+And the second number?
+0
+What operation will I be performing on these today:
+(e.g. input "/" for division)
+Addition (+)
+Subtraction (-)
+Multiplication (*)
+Division (/)
+exponentials (^)
+
++
+Your result is : 5 + 0 = 5
+bash-4.4$ ./calculator.out
+Welcome to the basic calculator.
+This calculator currently supports 5 different operations on 2 operands.
+Let's get started.
+Give me some information:
+What is your first number?
+10
+And the second number?
+0
+What operation will I be performing on these today:
+(e.g. input "/" for division)
+Addition (+)
+Subtraction (-)
+Multiplication (*)
+Division (/)
+exponentials (^)
+
+-
+Your result is : 10 - 0 = 10
+bash-4.4$ 10[K[K./calculator.out
+Welcome to the basic calculator.
+This calculator currently supports 5 different operations on 2 operands.
+Let's get started.
+Give me some information:
+What is your first number?
+^[[A    10
+And the second number?
+0
+What operation will I be performing on these today:
+(e.g. input "/" for division)
+Addition (+)
+Subtraction (-)
+Multiplication (*)
+Division (/)
+exponentials (^)
+
+*
+Your result is : 10 * 0 = 0
+bash-4.4$ ./calculator.out
+Welcome to the basic calculator.
+This calculator currently supports 5 different operations on 2 operands.
+Let's get started.
+Give me some information:
+What is your first number?
+1 5
+And the second number?
+0
+What operation will I be performing on these today:
+(e.g. input "/" for division)
+Addition (+)
+Subtraction (-)
+Multiplication (*)
+Division (/)
+exponentials (^)
+
+/
+You can't divide by 0. Let's try again.
+Give me some information:
+What is your first number?
+0
+And the second number?
+5
+What operation will I be performing on these today:
+(e.g. input "/" for division)
+Addition (+)
+Subtraction (-)
+Multiplication (*)
+Division (/)
+exponentials (^)
+
+/
+Your result is : 0 / 5 = 0
+bash-4.4$ ./calculator.out
+Welcome to the basic calculator.
+This calculator currently supports 5 different operations on 2 operands.
+Let's get started.
+Give me some information:
+What is your first number?
+13
+And the second number?
+0
+What operation will I be performing on these today:
+(e.g. input "/" for division)
+Addition (+)
+Subtraction (-)
+Multiplication (*)
+Division (/)
+exponentials (^)
+
+^
+Your result is : 13 ^ 0 = 1
+bash-4.4$ exit
+exit
+
+Script done on 2023-09-08 18:11:51-07:00
