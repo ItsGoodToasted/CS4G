@@ -1,0 +1,59 @@
+Script started on 2023-10-06 13:53:12-07:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="121" LINES="38"]
+[?2004h]0;alertwinter@Nigel-PC: /mnt/a/School/CS/CS4G/CS-120/Assignments/exam[01;32malertwinter@Nigel-PC[00m:[01;34m/mnt/a/School/CS/CS4G/CS-120/Assignments/exam[00m$ ./a[K6_assignment.out
+[?2004lSelect an option:
+Problem: 1
+Problem: 2
+Problem: 3
+Problem: 4
+Problem: 5
+Quit: 0
+1
+Enter your x value: 7
+#######
+Select an option:
+Problem: 1
+Problem: 2
+Problem: 3
+Problem: 4
+Problem: 5
+Quit: 0
+2
+Enter your x value: 6
+Positive
+Select an option:
+Problem: 1
+Problem: 2
+Problem: 3
+Problem: 4
+Problem: 5
+Quit: 0
+2
+Enter your x value: -6 4
+Negative
+Select an option:
+Problem: 1
+Problem: 2
+Problem: 3
+Problem: 4
+Problem: 5
+Quit: 0
+2
+Enter your x value: 0
+
+Select an option:
+Problem: 1
+Problem: 2
+Problem: 3
+Problem: 4
+Problem: 5
+Quit: 0
+^C
+[?2004h]0;alertwinter@Nigel-PC: /mnt/a/School/CS/CS4G/CS-120/Assignments/exam[01;32malertwinter@Nigel-PC[00m:[01;34m/mnt/a/School/CS/CS4G/CS-120/Assignments/exam[00m$ [K]0;alertwinter@Nigel-PC: /mnt/a/School/CS/CS4G/CS-120/Assignments/exam[01;32malertwinter@Nigel-PC[00m:[01;34m/mnt/a/School/CS/CS4G/CS-120/Assignments/exam[00m$ [K]0;alertwinter@Nigel-PC: /mnt/a/School/CS/CS4G/CS-120/Assignments/exam[01;32malertwinter@Nigel-PC[00m:[01;34m/mnt/a/School/CS/CS4G/CS-120/Assignments/exam[00m$ .
+/6_assignment.out
+[?2004lSelect an option:
+Problem: 1
+Problem: 2
+Problem: 3
+Problem: 4
+Problem: 5
+Quit: 0

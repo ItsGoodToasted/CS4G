@@ -1,0 +1,80 @@
+Script started on 2023-10-13 14:13:02-07:00
+bash-4.4$ ./tama.out
+Generating your new pet.
+What is the name of your pet?
+Jinx
+0.Cat
+1.Rat
+2.Spider
+3.Crow
+4.Bat
+5.Ghost
+What species do you want your pet to be?
+0
+Pet Information:
+Name: Jinx
+Species: Cat
+Health: 50
+Hunger: 100
+Weight: 40
+Feeding the pet
+Pet Information:
+Name: Jinx
+Species: Cat
+Health: 75
+Hunger: 50
+Weight: 40
+bash-4.4$ ./tama.out
+Generating your new pet.
+What is the name of your pet?
+Rufus
+0.Cat
+1.Rat
+2.Spider
+3.Crow
+4.Bat
+5.Ghost
+What species do you want your pet to be?
+3
+Pet Information:
+Name: Rufus
+Species: Crow
+Health: 50
+Hunger: 100
+Weight: 40
+Feeding the pet
+Pet Information:
+Name: Rufus
+Species: Crow
+Health: 75
+Hunger: 50
+Weight: 40
+bash-4.4$ ./tama.out
+Generating your new pet.
+What is the name of your pet?
+Jeremy
+0.Cat
+1.Rat
+2.Spider
+3.Crow
+4.Bat
+5.Ghost
+What species do you want your pet to be?
+5
+Pet Information:
+Name: Jeremy
+Species: Ghost
+Health: 50
+Hunger: 100
+Weight: 40
+Feeding the pet
+Pet Information:
+Name: Jeremy
+Species: Ghost
+Health: 75
+Hunger: 50
+Weight: 40
+bash-4.4$ exit
+exit
+
+Script done on 2023-10-13 14:13:38-07:00

@@ -1,0 +1,825 @@
+Script started on 2023-09-22 18:42:21-07:00
+bash-4.4$ ./adventure.cpp[K[K[Kout
+Nun will Survive
+
+1. New Game
+2. Quit
+2
+bash-4.4$ ./adventure.out
+Nun will Survive
+
+1. New Game
+2. Quit
+1
+A glimpse of shadow catches your eye as you feel your limbs go numb.
+Panicking, you resist, but your body has abandoned you.
+As your eyes cloud in the fog of the night, the last image you bare witness
+to is a dark form lifting you into its embrace.
+A searing pain hits your neck, and the world goes black.
+These are the only memories that come to you as regainconciousness.
+The room returns an oppressives stillness, broken only by the floorboards creeking beneath your feet. 
+Dim candle-light from the coffee table offers you insight into the surroundings.
+You see this to be a living room.
+Of Interest:
+(1) Musty Couch
+(2) Front Door
+(3) Coffee Table
+
+Exits Available:
+(4) Kitchen
+1
+Musty Couch: Reaching into the cushion, you find an old bandage. Could be useful.
+You see this to be a living room.
+Of Interest:
+(1) Musty Couch
+(2) Front Door
+(3) Coffee Table
+
+Exits Available:
+(4) Kitchen
+2
+Front Door: The knob turns yet the door remains shut. You won't be escaping through here.
+You see this to be a living room.
+Of Interest:
+(1) Musty Couch
+(2) Front Door
+(3) Coffee Table
+
+Exits Available:
+(4) Kitchen
+3
+Coffee Table: You take one of the candles. You feel safer against the darkness ahead.
+You have found 1/5 secrets
+You see this to be a living room.
+Of Interest:
+(1) Musty Couch
+(2) Front Door
+(3) Coffee Table
+
+Exits Available:
+(4) Kitchen
+4
+You pass through the archway at the back of the room.
+The stench of iron fills your nostrils. The rotting, bloody clothes give it the appearance of a butchery. 
+Buzzing fluorescents peak through the haze, lighting your path.
+You see this to be a kitchen.
+Of Interest:
+(1) Fridge
+(2) Drawer
+(3) Table
+
+Exits Available:
+(4) Yard
+(5) Bedroom
+(6) Bathroom
+(7) Living Room
+7
+You enter the archway at the front of the room.
+The room returns an oppressives stillness, broken only by the floorboards creeking beneath your feet. 
+Dim candle-light from the coffee table offers you insight into the surroundings.
+You see this to be a living room.
+Of Interest:
+(1) Musty Couch
+(2) Front Door
+(3) Coffee Table
+
+Exits Available:
+(4) Kitchen
+4
+You pass through the archway at the back of the room.
+The stench of iron fills your nostrils. The rotting, bloody clothes give it the appearance of a butchery. 
+Buzzing fluorescents peak through the haze, lighting your path.
+You see this to be a kitchen.
+Of Interest:
+(1) Fridge
+(2) Drawer
+(3) Table
+
+Exits Available:
+(4) Yard
+(5) Bedroom
+(6) Bathroom
+(7) Living Room
+1
+Fridge: Peaking in, what looks to be a dismembered hand catches your gaze. You quickly shut the fridge.
+You see this to be a kitchen.
+Of Interest:
+(1) Fridge
+(2) Drawer
+(3) Table
+
+Exits Available:
+(4) Yard
+(5) Bedroom
+(6) Bathroom
+(7) Living Room
+2
+Drawer: Amongst various tools you find a knife. You slip it into your pocket.
+You have found 2/5 secrets
+You see this to be a kitchen.
+Of Interest:
+(1) Fridge
+(2) Drawer
+(3) Table
+
+Exits Available:
+(4) Yard
+(5) Bedroom
+(6) Bathroom
+(7) Living Room
+3
+Table: There are photos of people on the table.
+Glancing at one, writing on the bottom reads, "7/10, not enough flavor."
+You see this to be a kitchen.
+Of Interest:
+(1) Fridge
+(2) Drawer
+(3) Table
+
+Exits Available:
+(4) Yard
+(5) Bedroom
+(6) Bathroom
+(7) Living Room
+4
+You pass through the glass doors at the back of the room.
+Stepping outside, cool air washes across your face. The stars look beautiful tonight.
+You see this to be a backyard.
+Of Interest:
+(1) Dirt
+(2) Wall
+Exits Available: (3) Kitchen
+1
+Dirt: You dig in the dirt and find a Strange Skull. You wish you weren't holding this.
+You have found 3/5 secrets
+You see this to be a backyard.
+Of Interest:
+(1) Dirt
+(2) Wall
+Exits Available: (3) Kitchen
+2
+Wall: The mossy walls are too high to climb. Escape would never be this easy
+You see this to be a backyard.
+Of Interest:
+(1) Dirt
+(2) Wall
+Exits Available: (3) Kitchen
+3
+Kitchen: You return back through the patio doors.
+The stench of iron fills your nostrils. The rotting, bloody clothes give it the appearance of a butchery. 
+Buzzing fluorescents peak through the haze, lighting your path.
+You see this to be a kitchen.
+Of Interest:
+(1) Fridge
+(2) Drawer
+(3) Table
+
+Exits Available:
+(4) Yard
+(5) Bedroom
+(6) Bathroom
+(7) Living Room
+4
+You pass through the glass doors at the back of the room.
+The stars you once gazed on are gone. Blackness has blotted the sky
+You see this to be a backyard.
+Of Interest:
+(1) Dirt
+(2) Wall
+Exits Available: (3) Kitchen
+3
+Kitchen: You return back through the patio doors.
+The stench of iron fills your nostrils. The rotting, bloody clothes give it the appearance of a butchery. 
+Buzzing fluorescents peak through the haze, lighting your path.
+You see this to be a kitchen.
+Of Interest:
+(1) Fridge
+(2) Drawer
+(3) Table
+
+Exits Available:
+(4) Yard
+(5) Bedroom
+(6) Bathroom
+(7) Living Room
+4 5
+You enter the door at the right of the room. 
+The sense of danger leaves you as you enter. Where you expect blood spatter and rot, warmth greets you.
+You see this to be a bedroom.
+Of Interest:
+(1) Bed
+(2) Desk
+(3) Cat Clock
+
+Exits Available: (4) Kitchen
+1
+Bed: You pull back the covers and find a bandage. Could be useful
+You see this to be a bedroom.
+Of Interest:
+(1) Bed
+(2) Desk
+(3) Cat Clock
+
+Exits Available: (4) Kitchen
+2
+Desk: Atop the desk you find a dusty tome. You cannot decipher the words within.
+You have found 4/5 secrets
+Cat Clock: Kind of cute. Why is this in here?
+You see this to be a bedroom.
+Of Interest:
+(1) Bed
+(2) Desk
+(3) Cat Clock
+
+Exits Available: (4) Kitchen
+3
+Cat Clock: Kind of cute. Why is this in here?
+You see this to be a bedroom.
+Of Interest:
+(1) Bed
+(2) Desk
+(3) Cat Clock
+
+Exits Available: (4) Kitchen
+4
+Kitchen: You exit the bedroom back through the door.
+The stench of iron fills your nostrils. The rotting, bloody clothes give it the appearance of a butchery. 
+Buzzing fluorescents peak through the haze, lighting your path.
+You see this to be a kitchen.
+Of Interest:
+(1) Fridge
+(2) Drawer
+(3) Table
+
+Exits Available:
+(4) Yard
+(5) Bedroom
+(6) Bathroom
+(7) Living Room
+5
+You enter the door at the right of the room. 
+You have the feeling you're being watched. The cat clock hisses at you. You should leave.
+You see this to be a bedroom.
+Of Interest:
+(1) Bed
+(2) Desk
+(3) Cat Clock
+
+Exits Available: (4) Kitchen
+4
+Kitchen: You exit the bedroom back through the door.
+The stench of iron fills your nostrils. The rotting, bloody clothes give it the appearance of a butchery. 
+Buzzing fluorescents peak through the haze, lighting your path.
+You see this to be a kitchen.
+Of Interest:
+(1) Fridge
+(2) Drawer
+(3) Table
+
+Exits Available:
+(4) Yard
+(5) Bedroom
+(6) Bathroom
+(7) Living Room
+6
+You enter the door at the left of the room.
+The walls before you are stained with rust. An ominous noise comes from the toilet 
+You see this to be a bathroom.
+Of Interest:
+(1) Toilet
+(2) Bathtub
+You place the skull on the alter, causing the floor beneath it to collapse, revealing a hole.
+Exits Available:
+(3) Kitchen
+(4) Hole
+4 1
+There used to be a toilet here. It's gone now
+You see this to be a bathroom.
+Of Interest:
+(1) Toilet
+(2) Bathtub
+You place the skull on the alter, causing the floor beneath it to collapse, revealing a hole.
+Exits Available:
+(3) Kitchen
+(4) Hole
+2
+Bathtub: Inside of the rusted out tub you find a bandage. Could be useful.
+You see this to be a bathroom.
+Of Interest:
+(1) Toilet
+(2) Bathtub
+You place the skull on the alter, causing the floor beneath it to collapse, revealing a hole.
+Exits Available:
+(3) Kitchen
+(4) Hole
+4
+You hear whisphers,"There are still secrets left to find!" 
+You see this to be a bathroom.
+Of Interest:
+(1) Toilet
+(2) Bathtub
+You place the skull on the alter, causing the floor beneath it to collapse, revealing a hole.
+Exits Available:
+(3) Kitchen
+(4) Hole
+3
+Kitchen: You exit the bathroom through the door.
+The stench of iron fills your nostrils. The rotting, bloody clothes give it the appearance of a butchery. 
+Buzzing fluorescents peak through the haze, lighting your path.
+You see this to be a kitchen.
+Of Interest:
+(1) Fridge
+(2) Drawer
+(3) Table
+
+Exits Available:
+(4) Yard
+(5) Bedroom
+(6) Bathroom
+(7) Living Room
+7
+You enter the archway at the front of the room.
+The room returns an oppressives stillness, broken only by the floorboards creeking beneath your feet. 
+Dim candle-light from the coffee table offers you insight into the surroundings.
+You see this to be a living room.
+Of Interest:
+(1) Musty Couch
+(2) Front Door
+(3) Coffee Table
+
+Exits Available:
+(4) Kitchen
+(5) Bookshelf Passage
+5
+You slot the dusty tome into the bookshelf, revealing a hidden path. You wander inside.
+You step into a quaint study, bewildered by the runes etched into the wall and floor.
+A pentgram sits in the center of the floor. What manner of devilry was committed here?
+You see this to be a ritual room.
+Of Interest:
+(1) Pentagram
+(2) Skeleton
+Exits Available: (3) Living room
+1
+In the center of the penagram sits a strange necklace. You put it on
+You have found 5/5 secrets
+You feel you're ready for escape
+You see this to be a ritual room.
+Of Interest:
+(1) Pentagram
+(2) Skeleton
+Exits Available: (3) Living room
+2
+Skeleton: A skeleton is chained in the corner. A note by his corpse reads: 
+Nun will escape. Get it? Cause I'm trapped and she's going to k-
+The note is cut short. What an amusing fella.
+You see this to be a ritual room.
+Of Interest:
+(1) Pentagram
+(2) Skeleton
+Exits Available: (3) Living room
+3
+Living Room: You exit back through the hidden passage.
+The room returns an oppressives stillness, broken only by the floorboards creeking beneath your feet. 
+Dim candle-light from the coffee table offers you insight into the surroundings.
+You see this to be a living room.
+Of Interest:
+(1) Musty Couch
+(2) Front Door
+(3) Coffee Table
+
+Exits Available:
+(4) Kitchen
+(5) Bookshelf Passage
+4
+You pass through the archway at the back of the room.
+The stench of iron fills your nostrils. The rotting, bloody clothes give it the appearance of a butchery. 
+Buzzing fluorescents peak through the haze, lighting your path.
+You see this to be a kitchen.
+Of Interest:
+(1) Fridge
+(2) Drawer
+(3) Table
+
+Exits Available:
+(4) Yard
+(5) Bedroom
+(6) Bathroom
+(7) Living Room
+6
+You enter the door at the left of the room.
+The walls before you are stained with rust. An ominous noise comes from the toilet 
+You see this to be a bathroom.
+Of Interest:
+(1) Toilet
+(2) Bathtub
+You place the skull on the alter, causing the floor beneath it to collapse, revealing a hole.
+Exits Available:
+(3) Kitchen
+(4) Hole
+4
+You jump down the hole ready to face the dangers ahead.
+The rusted wire floor breaks your fall. Your candle lights up the room around you.
+Amidst wrought iron walls laiden with rust and blood, a woman stands before you.
+Appearing as an innocent nun, she greets you with open arms, promising safety.
+Your necklace glows, dispelling her illusion, revealing her to be a fanged,shadowy beast.
+Realizing this is the creature that abducted you, you lunge with your dagger
+Health: 100
+Bandages: 3
+Boss Health: 100
+Select an option:
+(1) Attack
+(2) Use Bandage
+1
+Your dagger slashes the shadow beast. It screams in rage.
+The shadow beast claws at your skin
+Health: 75
+Bandages: 3
+Boss Health: 80
+Select an option:
+(1) Attack
+(2) Use Bandage
+1
+Your dagger slashes the shadow beast. It screams in rage.
+The shadow beast claws at your skin
+Health: 50
+Bandages: 3
+Boss Health: 60
+Select an option:
+(1) Attack
+(2) Use Bandage
+2
+You bandage your wounds
+The shadow beast claws at your skin
+Health: 75
+Bandages: 2
+Boss Health: 60
+Select an option:
+(1) Attack
+(2) Use Bandage
+1
+Your dagger slashes the shadow beast. It screams in rage.
+The shadow beast claws at your skin
+Health: 50
+Bandages: 2
+Boss Health: 40
+Select an option:
+(1) Attack
+(2) Use Bandage
+2
+You bandage your wounds
+The shadow beast claws at your skin
+Health: 75
+Bandages: 1
+Boss Health: 40
+Select an option:
+(1) Attack
+(2) Use Bandage
+1
+Your dagger slashes the shadow beast. It screams in rage.
+The shadow beast claws at your skin
+Health: 50
+Bandages: 1
+Boss Health: 20
+Select an option:
+(1) Attack
+(2) Use Bandage
+1 2 1
+Your dagger slashes the shadow beast. It screams in rage.
+You deal the final blow against the shadow beast. A great evil has been slain.
+On the beast you find the key to the front door, and make your escape.
+
+Congratulations on beating Nun will Escape!
+bash-4.4$ ./adventure.out
+Nun will Survive
+
+1. New Game
+2. Quit
+1
+A glimpse of shadow catches your eye as you feel your limbs go numb.
+Panicking, you resist, but your body has abandoned you.
+As your eyes cloud in the fog of the night, the last image you bare witness
+to is a dark form lifting you into its embrace.
+A searing pain hits your neck, and the world goes black.
+These are the only memories that come to you as regainconciousness.
+The room returns an oppressives stillness, broken only by the floorboards creeking beneath your feet. 
+Dim candle-light from the coffee table offers you insight into the surroundings.
+You see this to be a living room.
+Of Interest:
+(1) Musty Couch
+(2) Front Door
+(3) Coffee Table
+
+Exits Available:
+(4) Kitchen
+1
+Musty Couch: Reaching into the cushion, you find an old bandage. Could be useful.
+You see this to be a living room.
+Of Interest:
+(1) Musty Couch
+(2) Front Door
+(3) Coffee Table
+
+Exits Available:
+(4) Kitchen
+3
+Coffee Table: You take one of the candles. You feel safer against the darkness ahead.
+You have found 1/5 secrets
+You see this to be a living room.
+Of Interest:
+(1) Musty Couch
+(2) Front Door
+(3) Coffee Table
+
+Exits Available:
+(4) Kitchen
+4
+You pass through the archway at the back of the room.
+The stench of iron fills your nostrils. The rotting, bloody clothes give it the appearance of a butchery. 
+Buzzing fluorescents peak through the haze, lighting your path.
+You see this to be a kitchen.
+Of Interest:
+(1) Fridge
+(2) Drawer
+(3) Table
+
+Exits Available:
+(4) Yard
+(5) Bedroom
+(6) Bathroom
+(7) Living Room
+2
+Drawer: Amongst various tools you find a knife. You slip it into your pocket.
+You have found 2/5 secrets
+You see this to be a kitchen.
+Of Interest:
+(1) Fridge
+(2) Drawer
+(3) Table
+
+Exits Available:
+(4) Yard
+(5) Bedroom
+(6) Bathroom
+(7) Living Room
+4
+You pass through the glass doors at the back of the room.
+Stepping outside, cool air washes across your face. The stars look beautiful tonight.
+You see this to be a backyard.
+Of Interest:
+(1) Dirt
+(2) Wall
+Exits Available: (3) Kitchen
+1
+Dirt: You dig in the dirt and find a Strange Skull. You wish you weren't holding this.
+You have found 3/5 secrets
+You see this to be a backyard.
+Of Interest:
+(1) Dirt
+(2) Wall
+Exits Available: (3) Kitchen
+3
+Kitchen: You return back through the patio doors.
+The stench of iron fills your nostrils. The rotting, bloody clothes give it the appearance of a butchery. 
+Buzzing fluorescents peak through the haze, lighting your path.
+You see this to be a kitchen.
+Of Interest:
+(1) Fridge
+(2) Drawer
+(3) Table
+
+Exits Available:
+(4) Yard
+(5) Bedroom
+(6) Bathroom
+(7) Living Room
+5
+You enter the door at the right of the room. 
+The sense of danger leaves you as you enter. Where you expect blood spatter and rot, warmth greets you.
+You see this to be a bedroom.
+Of Interest:
+(1) Bed
+(2) Desk
+(3) Cat Clock
+
+Exits Available: (4) Kitchen
+2
+Desk: Atop the desk you find a dusty tome. You cannot decipher the words within.
+You have found 4/5 secrets
+Cat Clock: Kind of cute. Why is this in here?
+You see this to be a bedroom.
+Of Interest:
+(1) Bed
+(2) Desk
+(3) Cat Clock
+
+Exits Available: (4) Kitchen
+1
+Bed: You pull back the covers and find a bandage. Could be useful
+You see this to be a bedroom.
+Of Interest:
+(1) Bed
+(2) Desk
+(3) Cat Clock
+
+Exits Available: (4) Kitchen
+4
+Kitchen: You exit the bedroom back through the door.
+The stench of iron fills your nostrils. The rotting, bloody clothes give it the appearance of a butchery. 
+Buzzing fluorescents peak through the haze, lighting your path.
+You see this to be a kitchen.
+Of Interest:
+(1) Fridge
+(2) Drawer
+(3) Table
+
+Exits Available:
+(4) Yard
+(5) Bedroom
+(6) Bathroom
+(7) Living Room
+7
+You enter the archway at the front of the room.
+The room returns an oppressives stillness, broken only by the floorboards creeking beneath your feet. 
+Dim candle-light from the coffee table offers you insight into the surroundings.
+You see this to be a living room.
+Of Interest:
+(1) Musty Couch
+(2) Front Door
+(3) Coffee Table
+
+Exits Available:
+(4) Kitchen
+(5) Bookshelf Passage
+5
+You slot the dusty tome into the bookshelf, revealing a hidden path. You wander inside.
+You step into a quaint study, bewildered by the runes etched into the wall and floor.
+A pentgram sits in the center of the floor. What manner of devilry was committed here?
+You see this to be a ritual room.
+Of Interest:
+(1) Pentagram
+(2) Skeleton
+Exits Available: (3) Living room
+1
+In the center of the penagram sits a strange necklace. You put it on
+You have found 5/5 secrets
+You feel you're ready for escape
+You see this to be a ritual room.
+Of Interest:
+(1) Pentagram
+(2) Skeleton
+Exits Available: (3) Living room
+3
+Living Room: You exit back through the hidden passage.
+The room returns an oppressives stillness, broken only by the floorboards creeking beneath your feet. 
+Dim candle-light from the coffee table offers you insight into the surroundings.
+You see this to be a living room.
+Of Interest:
+(1) Musty Couch
+(2) Front Door
+(3) Coffee Table
+
+Exits Available:
+(4) Kitchen
+(5) Bookshelf Passage
+4
+You pass through the archway at the back of the room.
+The stench of iron fills your nostrils. The rotting, bloody clothes give it the appearance of a butchery. 
+Buzzing fluorescents peak through the haze, lighting your path.
+You see this to be a kitchen.
+Of Interest:
+(1) Fridge
+(2) Drawer
+(3) Table
+
+Exits Available:
+(4) Yard
+(5) Bedroom
+(6) Bathroom
+(7) Living Room
+6
+You enter the door at the left of the room.
+The walls before you are stained with rust. An ominous noise comes from the toilet 
+You see this to be a bathroom.
+Of Interest:
+(1) Toilet
+(2) Bathtub
+You place the skull on the alter, causing the floor beneath it to collapse, revealing a hole.
+Exits Available:
+(3) Kitchen
+(4) Hole
+1
+There used to be a toilet here. It's gone now
+You see this to be a bathroom.
+Of Interest:
+(1) Toilet
+(2) Bathtub
+You place the skull on the alter, causing the floor beneath it to collapse, revealing a hole.
+Exits Available:
+(3) Kitchen
+(4) Hole
+2
+Bathtub: Inside of the rusted out tub you find a bandage. Could be useful.
+You see this to be a bathroom.
+Of Interest:
+(1) Toilet
+(2) Bathtub
+You place the skull on the alter, causing the floor beneath it to collapse, revealing a hole.
+Exits Available:
+(3) Kitchen
+(4) Hole
+4
+You jump down the hole ready to face the dangers ahead.
+The rusted wire floor breaks your fall. Your candle lights up the room around you.
+Amidst wrought iron walls laiden with rust and blood, a woman stands before you.
+Appearing as an innocent nun, she greets you with open arms, promising safety.
+Your necklace glows, dispelling her illusion, revealing her to be a fanged,shadowy beast.
+Realizing this is the creature that abducted you, you lunge with your dagger
+Health: 100
+Bandages: 3
+Boss Health: 100
+Select an option:
+(1) Attack
+(2) Use Bandage
+1
+Your dagger slashes the shadow beast. It screams in rage.
+The shadow beast claws at your skin
+Health: 75
+Bandages: 3
+Boss Health: 80
+Select an option:
+(1) Attack
+(2) Use Bandage
+1
+Your dagger slashes the shadow beast. It screams in rage.
+The shadow beast claws at your skin
+Health: 50
+Bandages: 3
+Boss Health: 60
+Select an option:
+(1) Attack
+(2) Use Bandage
+1
+Your dagger slashes the shadow beast. It screams in rage.
+The shadow beast claws at your skin
+Health: 25
+Bandages: 3
+Boss Health: 40
+Select an option:
+(1) Attack
+(2) Use Bandage
+2
+You bandage your wounds
+The shadow beast claws at your skin
+Health: 50
+Bandages: 2
+Boss Health: 40
+Select an option:
+(1) Attack
+(2) Use Bandage
+2
+You bandage your wounds
+The shadow beast claws at your skin
+Health: 75
+Bandages: 1
+Boss Health: 40
+Select an option:
+(1) Attack
+(2) Use Bandage
+2
+You bandage your wounds
+The shadow beast claws at your skin
+Health: 75
+Bandages: 0
+Boss Health: 40
+Select an option:
+(1) Attack
+(2) Use Bandage
+2
+You're out of bandages.
+You waste a turn in confusion.
+The shadow beast claws at your skin
+Health: 50
+Bandages: 0
+Boss Health: 40
+Select an option:
+(1) Attack
+(2) Use Bandage
+2
+You're out of bandages.
+You waste a turn in confusion.
+The shadow beast claws at your skin
+Health: 25
+Bandages: 0
+Boss Health: 40
+Select an option:
+(1) Attack
+(2) Use Bandage
+2
+You're out of bandages.
+You waste a turn in confusion.
+The shadow beast claws at your skin
+You collapse, unable to keep fighting. The shadow beast has claimed another victim.
+bash-4.4$ exit[K[K[K[Kexit
+exit
+
+Script done on 2023-09-22 18:47:03-07:00

@@ -1,0 +1,151 @@
+Script started on 2023-09-29 17:07:31-07:00
+bash-4.4$ ./xander.out
+You are the great Xander Darkspell, a fearsome student of magic hungry for knowledge.
+Your quest: Became a powerful wizard with a sick looking orb and a cool tower.
+Journey the world and gather magic to reach your dream.
+Tread with caution, for you risk losing your soul in your greed.
+You've attained 0 percent magical energy
+You have 100 percent of your soul left.
+Press Enter to continue onwards in your journey.
+The die of fate is cast, you roll a 5
+You stumble into a village of gnomes who welcome you with glee.
+In your short stay, you study their arcane trickery.
+You've learned a new jinx. +2 Magic
+Your devious behavior wounds you. -1 Soul
+You've attained 2 percent magical energy
+You have 99 percent of your soul left.
+Press Enter to continue onwards in your journey.
+The die of fate is cast, you roll a 6
+You find an injured fairy and offer to carry it to safety.
+As thanks for your efforts, it soothes your ethereal wounds
+You failed to learn anything meaningful. +0 Magic
+Your spirit feels at ease. +10 Soul
+Your body cannot contain more than 100 percent of a soul.
+The excess spiritual energy disperses. -9 soul
+You've attained 2 percent magical energy
+You have 100 percent of your soul left.
+Press Enter to continue onwards in your journey.
+The die of fate is cast, you roll a 3
+You stop for a moment and gaze into the starry night sky
+Recognizing the patterns in the celestial unknown, you gleam astral knowledge.
+Your intelligence is inspiring. +10 Magic
+Your soul feels heavier. +10 Soul
+Your body cannot contain more than 100 percent of a soul.
+The excess spiritual energy disperses. -10 soul
+You've attained 12 percent magical energy
+You have 100 percent of your soul left.
+Press Enter to continue onwards in your journey.
+The die of fate is cast, you roll a 4
+A demon approaches you on your path.
+Fooled by his offers of power, you accept a pact to trade part of your soul
+The demon's tricks leave you weak. -5 Magic
+Your soul screams in pain. -20 Soul
+You've attained 7 percent magical energy
+You have 80 percent of your soul left.
+Press Enter to continue onwards in your journey.
+The die of fate is cast, you roll a 4
+A demon approaches you on your path.
+Fooled by his offers of power, you accept a pact to trade part of your soul
+The demon's tricks leave you weak. -5 Magic
+Your soul screams in pain. -20 Soul
+You've attained 2 percent magical energy
+You have 60 percent of your soul left.
+Press Enter to continue onwards in your journey.
+The die of fate is cast, you roll a 4
+A demon approaches you on your path.
+Fooled by his offers of power, you accept a pact to trade part of your soul
+The demon's tricks leave you weak. -5 Magic
+Your soul screams in pain. -20 Soul
+You've attained -3 percent magical energy
+You have 40 percent of your soul left.
+Press Enter to continue onwards in your journey.
+The die of fate is cast, you roll a 4
+A demon approaches you on your path.
+Fooled by his offers of power, you accept a pact to trade part of your soul
+The demon's tricks leave you weak. -5 Magic
+Your soul screams in pain. -20 Soul
+You've attained -8 percent magical energy
+You have 20 percent of your soul left.
+Press Enter to continue onwards in your journey.
+The die of fate is cast, you roll a 4
+A demon approaches you on your path.
+Fooled by his offers of power, you accept a pact to trade part of your soul
+The demon's tricks leave you weak. -5 Magic
+Your soul screams in pain. -20 Soul
+You've attained -13 percent magical energy
+You have 0 percent of your soul left.
+Your soul is left hollow and the world of wizardy is lost to you.
+Lacking a soul, you are left only one choice: Law School.
+BAD END
+bash-4.4$ 
+bash-4.4$ ./xander.out
+You are the great Xander Darkspell, a fearsome student of magic hungry for knowledge.
+Your quest: Became a powerful wizard with a sick looking orb and a cool tower.
+Journey the world and gather magic to reach your dream.
+Tread with caution, for you risk losing your soul in your greed.
+You've attained 0 percent magical energy
+You have 100 percent of your soul left.
+Press Enter to continue onwards in your journey.
+The die of fate is cast, you roll a 2
+You find a magic ritual site in a canyon.
+Offering your soul, you tap into primal sources of magic
+You've achieved new insights. +15 Magic
+You're soul strains in discomfort'. -10 Soul
+You've attained 15 percent magical energy
+You have 90 percent of your soul left.
+Press Enter to continue onwards in your journey.
+The die of fate is cast, you roll a 1
+You come across a strange, glowing berry in a forest.
+Consuming it, you glimpse briefly into the Weave All Things
+You feel energized. +5 Magic
+Your soul tingles. -10 Soul
+You've attained 30 percent magical energy
+You have 85 percent of your soul left.
+Press Enter to continue onwards in your journey.
+The die of fate is cast, you roll a 1
+You come across a strange, glowing berry in a forest.
+Consuming it, you glimpse briefly into the Weave All Things
+You feel energized. +5 Magic
+Your soul tingles. -10 Soul
+You've attained 45 percent magical energy
+You have 80 percent of your soul left.
+Press Enter to continue onwards in your journey.
+The die of fate is cast, you roll a 1
+You come across a strange, glowing berry in a forest.
+Consuming it, you glimpse briefly into the Weave All Things
+You feel energized. +5 Magic
+Your soul tingles. -10 Soul
+You've attained 60 percent magical energy
+You have 75 percent of your soul left.
+Press Enter to continue onwards in your journey.
+The die of fate is cast, you roll a 1
+You come across a strange, glowing berry in a forest.
+Consuming it, you glimpse briefly into the Weave All Things
+You feel energized. +5 Magic
+Your soul tingles. -10 Soul
+You've attained 75 percent magical energy
+You have 70 percent of your soul left.
+Press Enter to continue onwards in your journey.
+The die of fate is cast, you roll a 1
+You come across a strange, glowing berry in a forest.
+Consuming it, you glimpse briefly into the Weave All Things
+You feel energized. +5 Magic
+Your soul tingles. -10 Soul
+You've attained 90 percent magical energy
+You have 65 percent of your soul left.
+Press Enter to continue onwards in your journey.
+The die of fate is cast, you roll a 1
+You come across a strange, glowing berry in a forest.
+Consuming it, you glimpse briefly into the Weave All Things
+You feel energized. +5 Magic
+Your soul tingles. -10 Soul
+You've attained 105 percent magical energy
+You have 60 percent of your soul left.
+You, the great Xander Darkspell, have attained ultimate power.
+The knights who bullied you now look on in fear at your supreme intellect.
+GOOD END
+bash-4.4$ 
+bash-4.4$ exit[K[K[K[Kexit
+exit
+
+Script done on 2023-09-29 17:08:10-07:00

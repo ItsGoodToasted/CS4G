@@ -1,0 +1,542 @@
+Script started on 2023-10-20 15:48:56-07:00
+bash-4.4$ exit./tama.out
+TAMA: The Pet Management Game
+Generating your new pet.
+What is the name of your pet?
+Jinx
+0.Cat
+1.Rat
+2.Spider
+3.Crow
+4.Bat
+5.Ghost
+What species do you want your pet to be?
+0
+Pet Information:
+Name: Jinx
+Species: Cat
+Health: 50
+Hunger: 100
+Weight: 40
+Happiness: 5
+What would you like to do with Jinx
+1.Feed
+2.Play
+3.Walk
+4.Medicine
+5.quit
+1
+Jinx munches on the kibble
+Pet Information:
+Name: Jinx
+Species: Cat
+Health: 75
+Hunger: 0
+Weight: 40
+Happiness: 4
+What would you like to do with Jinx
+1.Feed
+2.Play
+3.Walk
+4.Medicine
+5.quit
+1
+Jinx munches on the kibble
+Pet Information:
+Name: Jinx
+Species: Cat
+Health: 100
+Hunger: -100
+Weight: 40
+Happiness: 3
+What would you like to do with Jinx
+1.Feed
+2.Play
+3.Walk
+4.Medicine
+5.quit
+1
+Jinx is too full to eat anymore!
+Pet Information:
+Name: Jinx
+Species: Cat
+Health: 100
+Hunger: -200
+Weight: 42
+Happiness: 2
+What would you like to do with Jinx
+1.Feed
+2.Play
+3.Walk
+4.Medicine
+5.quit
+1
+Jinx is too full to eat anymore!
+Jinx looks miserable.
+Pet Information:
+Name: Jinx
+Species: Cat
+Health: 70
+Hunger: -200
+Weight: 43
+Happiness: 1
+What would you like to do with Jinx
+1.Feed
+2.Play
+3.Walk
+4.Medicine
+5.quit
+1
+Jinx is too full to eat anymore!
+Jinx looks miserable.
+Pet Information:
+Name: Jinx
+Species: Cat
+Health: 40
+Hunger: -200
+Weight: 44
+Happiness: 1
+What would you like to do with Jinx
+1.Feed
+2.Play
+3.Walk
+4.Medicine
+5.quit
+1
+Jinx is too full to eat anymore!
+Jinx looks miserable.
+Pet Information:
+Name: Jinx
+Species: Cat
+Health: 10
+Hunger: -200
+Weight: 45
+Happiness: 1
+What would you like to do with Jinx
+1.Feed
+2.Play
+3.Walk
+4.Medicine
+5.quit
+1
+Jinx is too full to eat anymore!
+Jinx looks miserable.
+Jinx has died! Next time take better care of your tama.
+Hint: A healthy tama is an alive tama.
+bash-4.4$ 2[K./tama.out
+TAMA: The Pet Management Game
+Generating your new pet.
+What is the name of your pet?
+Randy
+0.Cat
+1.Rat
+2.Spider
+3.Crow
+4.Bat
+5.Ghost
+What species do you want your pet to be?
+1
+Pet Information:
+Name: Randy
+Species: Rat
+Health: 50
+Hunger: 100
+Weight: 40
+Happiness: 5
+What would you like to do with Randy
+1.Feed
+2.Play
+3.Walk
+4.Medicine
+5.quit
+1
+Randy munches on the kibble
+Pet Information:
+Name: Randy
+Species: Rat
+Health: 75
+Hunger: 0
+Weight: 40
+Happiness: 4
+What would you like to do with Randy
+1.Feed
+2.Play
+3.Walk
+4.Medicine
+5.quit
+2
+How would you like to play with Randy
+1.Laser Pointer
+2.Ball
+3.Pet
+4.Treat
+1
+Randy chases around a laser pointer.
+Randy is feeling depressed. You should cheer them up
+Pet Information:
+Name: Randy
+Species: Rat
+Health: 70
+Hunger: 25
+Weight: 40
+Happiness: 4
+What would you like to do with Randy
+1.Feed
+2.Play
+3.Walk
+4.Medicine
+5.quit
+2
+How would you like to play with Randy
+1.Laser Pointer
+2.Ball
+3.Pet
+4.Treat
+2
+Randy runs after the ball you throw.
+Pet Information:
+Name: Randy
+Species: Rat
+Health: 70
+Hunger: 50
+Weight: 40
+Happiness: 6
+What would you like to do with Randy
+1.Feed
+2.Play
+3.Walk
+4.Medicine
+5.quit
+2
+How would you like to play with Randy
+1.Laser Pointer
+2.Ball
+3.Pet
+4.Treat
+3
+Randy gets belly rubs.
+Pet Information:
+Name: Randy
+Species: Rat
+Health: 70
+Hunger: 75
+Weight: 40
+Happiness: 8
+What would you like to do with Randy
+1.Feed
+2.Play
+3.Walk
+4.Medicine
+5.quit
+2
+How would you like to play with Randy
+1.Laser Pointer
+2.Ball
+3.Pet
+4.Treat
+4
+Randy gets Rat-nip.
+Randy is smiling
+Pet Information:
+Name: Randy
+Species: Rat
+Health: 80
+Hunger: 100
+Weight: 40
+Happiness: 10
+What would you like to do with Randy
+1.Feed
+2.Play
+3.Walk
+4.Medicine
+5.quit
+3
+Randy goes for a stroll with you.
+Randy is feeling depressed. You should cheer them up
+Pet Information:
+Name: Randy
+Species: Rat
+Health: 65
+Hunger: 150
+Weight: 38
+Happiness: 7
+What would you like to do with Randy
+1.Feed
+2.Play
+3.Walk
+4.Medicine
+5.quit
+4
+Randy drinks the medicine. Yuck!
+Randy looks miserable.
+Randy is feeling hungry.
+Pet Information:
+Name: Randy
+Species: Rat
+Health: 85
+Hunger: 200
+Weight: 35
+Happiness: 1
+What would you like to do with Randy
+1.Feed
+2.Play
+3.Walk
+4.Medicine
+5.quit
+4
+Randy drinks the medicine. Yuck!
+Randy got into the trash. You hope they didn't eat something
+Randy looks miserable.
+Randy is feeling hungry.
+Pet Information:
+Name: Randy
+Species: Rat
+Health: 100
+Hunger: 200
+Weight: 32
+Happiness: 1
+What would you like to do with Randy
+1.Feed
+2.Play
+3.Walk
+4.Medicine
+5.quit
+4 3
+Randy goes for a stroll with you.
+Randy looks miserable.
+Randy is feeling hungry.
+Pet Information:
+Name: Randy
+Species: Rat
+Health: 60
+Hunger: 200
+Weight: 29
+Happiness: 1
+What would you like to do with Randy
+1.Feed
+2.Play
+3.Walk
+4.Medicine
+5.quit
+4
+Randy drinks the medicine. Yuck!
+Randy got into the trash. You hope they didn't eat something
+Randy looks miserable.
+Randy is feeling hungry.
+Pet Information:
+Name: Randy
+Species: Rat
+Health: 80
+Hunger: 200
+Weight: 26
+Happiness: 1
+What would you like to do with Randy
+1.Feed
+2.Play
+3.Walk
+4.Medicine
+5.quit
+3
+Randy goes for a stroll with you.
+Randy got into the trash. You hope they didn't eat something
+Randy looks miserable.
+Randy is feeling hungry.
+Randy is starving! Feed them something!
+Pet Information:
+Name: Randy
+Species: Rat
+Health: 35
+Hunger: 200
+Weight: 23
+Happiness: 1
+What would you like to do with Randy
+1.Feed
+2.Play
+3.Walk
+4.Medicine
+5.quit
+4
+Randy drinks the medicine. Yuck!
+Randy is feeling depressed. You should cheer them up
+Randy looks miserable.
+Randy is feeling hungry.
+Randy is starving! Feed them something!
+Pet Information:
+Name: Randy
+Species: Rat
+Health: 45
+Hunger: 200
+Weight: 20
+Happiness: 1
+What would you like to do with Randy
+1.Feed
+2.Play
+3.Walk
+4.Medicine
+5.quit
+4
+Randy drinks the medicine. Yuck!
+Randy is feeling depressed. You should cheer them up
+Randy looks miserable.
+Randy is feeling hungry.
+Randy is starving! Feed them something!
+Pet Information:
+Name: Randy
+Species: Rat
+Health: 54
+Hunger: 200
+Weight: 17
+Happiness: 1
+What would you like to do with Randy
+1.Feed
+2.Play
+3.Walk
+4.Medicine
+5.quit
+4
+Randy drinks the medicine. Yuck!
+Randy looks miserable.
+Randy is feeling hungry.
+Randy is starving! Feed them something!
+Pet Information:
+Name: Randy
+Species: Rat
+Health: 66
+Hunger: 200
+Weight: 14
+Happiness: 1
+What would you like to do with Randy
+1.Feed
+2.Play
+3.Walk
+4.Medicine
+5.quit
+4
+Randy drinks the medicine. Yuck!
+Randy is feeling depressed. You should cheer them up
+Randy looks miserable.
+Randy is feeling hungry.
+Randy is starving! Feed them something!
+Pet Information:
+Name: Randy
+Species: Rat
+Health: 71
+Hunger: 200
+Weight: 11
+Happiness: 1
+What would you like to do with Randy
+1.Feed
+2.Play
+3.Walk
+4.Medicine
+5.quit
+4
+Randy drinks the medicine. Yuck!
+Randy is feeling depressed. You should cheer them up
+Randy looks miserable.
+Randy is feeling hungry.
+Randy is starving! Feed them something!
+Randy has died! Next time take better care of your tama.
+Hint: Don't forget to feed your tama.
+bash-4.4$ ./tama.out
+TAMA: The Pet Management Game
+Generating your new pet.
+What is the name of your pet?
+James
+0.Cat
+1.Rat
+2.Spider
+3.Crow
+4.Bat
+5.Ghost
+What species do you want your pet to be?
+2
+Pet Information:
+Name: James
+Species: Spider
+Health: 50
+Hunger: 100
+Weight: 40
+Happiness: 5
+What would you like to do with James
+1.Feed
+2.Play
+3.Walk
+4.Medicine
+5.quit
+2
+How would you like to play with James
+1.Laser Pointer
+2.Ball
+3.Pet
+4.Treat
+4
+James gets Spider-nip.
+Pet Information:
+Name: James
+Species: Spider
+Health: 50
+Hunger: 125
+Weight: 38
+Happiness: 7
+What would you like to do with James
+1.Feed
+2.Play
+3.Walk
+4.Medicine
+5.quit
+5
+James is feeling depressed. You should cheer them up
+bash-4.4$ ./tama.out
+TAMA: The Pet Management Game
+Generating your new pet.
+What is the name of your pet?
+Spooky
+0.Cat
+1.Rat
+2.Spider
+3.Crow
+4.Bat
+5.Ghost
+What species do you want your pet to be?
+5
+Pet Information:
+Name: Spooky
+Species: Ghost
+Health: 50
+Hunger: 100
+Weight: 40
+Happiness: 5
+What would you like to do with Spooky
+1.Feed
+2.Play
+3.Walk
+4.Medicine
+5.quit
+2
+How would you like to play with Spooky
+1.Laser Pointer
+2.Ball
+3.Pet
+4.Treat
+4
+Spooky gets Ghost-nip.
+Spooky is feeling depressed. You should cheer them up
+Pet Information:
+Name: Spooky
+Species: Ghost
+Health: 45
+Hunger: 125
+Weight: 38
+Happiness: 5
+What would you like to do with Spooky
+1.Feed
+2.Play
+3.Walk
+4.Medicine
+5.quit
+5
+bash-4.4$ exit
+exit
+
+Script done on 2023-10-20 15:51:24-07:00
