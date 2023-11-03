@@ -1,0 +1,108 @@
+Script started on 2023-11-03 13:59:34-07:00
+bash-4.4$ ./map.out
+1.Generate New Map
+2.Print Terrain
+3.Print Animals
+4.Find Altitude
+5.Quit
+2
+^ ^   ~ ~ ^ ~ ~ ^ ^ ^ ^ _ _ _   ^ ~ ^ _ 
+^ ^ _ ^   _   ^ _ _ ~ ^ ~ _ ~ ~ _ ^ ~   
+^ _ _ ^ ^ _ _   _ _   ~   ^ _ ~ ~ ^ ^ ^ 
+^ ^ ^   _ ^ _ _ ^ ~ ^ ~ _   ~     ~     
+  _   ^   _ ~   ~ ~ ^ ~ ~ _ ^   _     ^ 
+  ^ ^   ~ _ _ _ ^ ~ _   ~   ~ _ _ ~     
+_ ^ _ ~   _   ~ _   ^ ^     ^ _ ~ ^     
+^ ^ ^ ^   ~ ~   _     ~   ~ ~ ~   ^   ^ 
+    ~ _ ~ _   ^ _ _ ^ _ ~ ^ ^ _ ~ ^ ^ ~ 
+^ _ ^ ^ ^   ^ _ ^ _ _ ^ ~ ~   _ _       
+1.Generate New Map
+2.Print Terrain
+3.Print Animals
+4.Find Altitude
+5.Quit
+1 3
+R   B   R     B O O B R B B R O     B R 
+O O B   O R B B   B   B R B R B     R R 
+  O B   B O   O R R   R R R O B O R O   
+R       O B R O B   R O B   O R O B B R 
+R   R   B R O B R   R   R O O   R R B   
+  B B O B     O B R R B O O B O   O     
+B R O R B B O O O     R   R R B R B O   
+R B B B   R B   O   R R B   R   B   B R 
+B B R O R B O O R   O B O R R O   O B B 
+R B B R B O R     R O R R O R O B R R B 
+1.Generate New Map
+2.Print Terrain
+3.Print Animals
+4.Find Altitude
+5.Quit
+1 4
+Enter coordinates to search (x y). Do not include commas
+8 12
+Altitude at (8,12) : 2606
+1.Generate New Map
+2.Print Terrain
+3.Print Animals
+4.Find Altitude
+5.Quit
+1
+New map generated
+1.Generate New Map
+2.Print Terrain
+3.Print Animals
+4.Find Altitude
+5.Quit
+2
+  ^ ~ _ ^   _ ^ ~     ^ ~ _ ^ ~ ~ ^ ^ ^ 
+^ ~ ^ _   ~ _ ~ ^ _ ^ _ _   ^ ^ _ _   ^ 
+~   ^ _ _ _ ^   ^ _   ^ ^ _ _ ^   _ ~ ^ 
+~ ^ ~   ^ ^ _ ~ ~   ~ ^ _ ^ _ ^ _ ^ ^ ^ 
+  _ _ _ _ ^     ^ ~   ~ ^ ^ ^       _ ^ 
+_ ~ ~ ^ _ ~ ~ ^ ^ ^ ~ ^   ^ ~   ^ ^ ^   
+  ~ _ _ ~ ~ ^ _ ^ ~     _ ^   ~   _ ^   
+~ ~ ^ ^ _ ~ _   ^ ~ ~   ^ ^ ^ ~ _ _ ~   
+^ ~ ~ _ ^ ~ ^ ^ _   ^ _ ~   ~   ~   ^ ^ 
+^     ^ ^ _       ~ _ ^ _ _ ^ _   ^ ^   
+1.Generate New Map
+2.Print Terrain
+3.Print Animals
+4.Find Altitude
+5.Quit
+3
+R B   B B   R O   R R   O B   B   O R B 
+B B R   B R B         B   O R R B O B B 
+      B R B O R O R   O   O     B O R B 
+B R B B B B B O R R O O   R R O O R     
+B B R R   O R R R B B R R R B R R O   R 
+  O R   B B   R   O R B B R O   O B B   
+O R R B O O B O B O B R R R B O     B   
+  B     R   B R O O         O   O   B   
+  O O B B O B B B R R R R     B     R B 
+  B B R B B   B R O B O R R   R R O B R 
+1.Generate New Map
+2.Print Terrain
+3.Print Animals
+4.Find Altitude
+5.Quit
+4
+Enter coordinates to search (x y). Do not include commas
+8 12
+Altitude at (8,12) : 681
+1.Generate New Map
+2.Print Terrain
+3.Print Animals
+4.Find Altitude
+5.Quit
+5 6
+Invalid selection.
+1.Generate New Map
+2.Print Terrain
+3.Print Animals
+4.Find Altitude
+5.Quit
+5
+bash-4.4$ exit
+exit
+
+Script done on 2023-11-03 14:00:24-07:00

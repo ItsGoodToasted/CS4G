@@ -1,0 +1,316 @@
+Script started on 2023-10-27 18:10:51-07:00
+bash-4.4$ Created by Nigel Lee
+bash: Created: command not found
+bash-4.4$ ./red[Kcords.out
+What would you like to do:
+1.Search(name)
+2.Search(species)
+3.Search(color)
+4.Quit
+1
+Enter the name to search: Nigel
+No Nigel found
+What would you like to do:
+1.Search(name)
+2.Search(species)
+3.Search(color)
+4.Quit
+1
+Enter the name to search: Lee
+No Lee found
+What would you like to do:
+1.Search(name)
+2.Search(species)
+3.Search(color)
+4.Quit
+1
+Enter the name to search: Daisy
+Daisy is a Female Dog who likes listening to Forest Life
+Daisy says, "bow-WOW"
+What would you like to do:
+1.Search(name)
+2.Search(species)
+3.Search(color)
+4.Quit
+1
+Enter the name to search: Rufus
+No Rufus found
+What would you like to do:
+1.Search(name)
+2.Search(species)
+3.Search(color)
+4.Quit
+1
+Enter the name to search: Chad
+No Chad found
+What would you like to do:
+1.Search(name)
+2.Search(species)
+3.Search(color)
+4.Quit
+1
+Enter the name to search: Eloise
+Eloise is a Female Elephant who likes listening to K.K. Soul
+Eloise says, "tooooot"
+What would you like to do:
+1.Search(name)
+2.Search(species)
+3.Search(color)
+4.Quit
+2
+Enter a species to search:Whale
+No Whale found
+What would you like to do:
+1.Search(name)
+2.Search(species)
+3.Search(color)
+4.Quit
+2
+Enter a species to search:Moose
+No Moose found
+What would you like to do:
+1.Search(name)
+2.Search(species)
+3.Search(color)
+4.Quit
+2
+Enter a species to search:Cow
+Naomi is a Female Cow who likes listening to K.K. Milonga
+Norma is a Female Cow who likes listening to Mountain Song
+Patty is a Female Cow who likes listening to K.K. Calypso
+Tipper is a Female Cow who likes listening to Soulful K.K.
+What would you like to do:
+1.Search(name)
+2.Search(species)
+3.Search(color)
+4.Quit
+2
+Enter a species to search:Cat
+Raymond is a Male Cat who likes listening to K.K. Cruisin'
+Tom is a Male Cat who likes listening to K.K. Rock
+Mitzi is a Female Cat who likes listening to K.K. Love Song
+Katt is a Female Cat who likes listening to K.K. Disco
+Monique is a Female Cat who likes listening to K.K. Cruisin'
+Olivia is a Female Cat who likes listening to K.K. Sonata
+Ankha is a Female Cat who likes listening to K.K. Bazaar
+Kabuki is a Male Cat who likes listening to K.K. Jongara
+Stinky is a Male Cat who likes listening to K.K. Flamenco
+Kitty is a Female Cat who likes listening to K.K. Chorale
+Tangy is a Female Cat who likes listening to I Love You
+Moe is a Male Cat who likes listening to Two Days Ago
+Kid Cat is a Male Cat who likes listening to Go K.K. Rider
+Bob is a Male Cat who likes listening to Neapolitan
+Rosie is a Female Cat who likes listening to Bubblegum K.K.
+Tabby is a Female Cat who likes listening to DJ K.K.
+Punchy is a Male Cat who likes listening to Forest Life
+Kiki is a Female Cat who likes listening to Only Me
+Rudy is a Male Cat who likes listening to K.K. Blues
+Lolly is a Female Cat who likes listening to Forest Life
+Merry is a Female Cat who likes listening to Neapolitan
+Felicity is a Female Cat who likes listening to K.K. Stroll
+Purrl is a Female Cat who likes listening to K.K. Chorale
+What would you like to do:
+1.Search(name)
+2.Search(species)
+3.Search(color)
+4.Quit
+3
+Enter a color to search:Black
+Apollo is a Male Eagle who likes listening to K.K. Rock
+Blanche is a Female Ostrich who likes listening to K.K. Jongara
+Raymond is a Male Cat who likes listening to K.K. Cruisin'
+Tia is a Female Elephant who likes listening to K.K. Bossa
+Tom is a Male Cat who likes listening to K.K. Rock
+Eugene is a Male Koala who likes listening to Agent K.K.
+Chadder is a Male Mouse who likes listening to K.K. Soul
+Elvis is a Male Lion who likes listening to K.K. Casbah
+Reneigh is a Female Horse who likes listening to K.K. Synth
+Queenie is a Female Ostrich who likes listening to K.K. Gumbo
+Bree is a Female Mouse who likes listening to K.K. Bossa
+Barold is a Male Cub who likes listening to K.K. Song
+Katt is a Female Cat who likes listening to K.K. Disco
+Gloria is a Female Duck who likes listening to Animal City
+Tex is a Male Penguin who likes listening to K.K. D&B
+Lobo is a Male Wolf who likes listening to K.K. Rock
+Olivia is a Female Cat who likes listening to K.K. Sonata
+Rooney is a Male Kangaroo who likes listening to K.K. Adventure
+Olaf is a Male Anteater who likes listening to K.K. Milonga
+Admiral is a Male Bird who likes listening to Steep Hill
+Piper is a Female Bird who likes listening to K.K. Synth
+Rhonda is a Female Rhino who likes listening to K.K. Ballad
+Mac is a Male Dog who likes listening to My Place
+Muffy is a Female Sheep who likes listening to K.K. Sonata
+Dotty is a Female Rabbit who likes listening to Drivin'
+Bruce is a Male Deer who likes listening to K.K. Blues
+Spike is a Male Rhino who likes listening to K.K. House
+Cyd is a Male Elephant who likes listening to K.K. Metal
+Francine is a Female Rabbit who likes listening to K.K. Cruisin'
+Grizzly is a Male Bear who likes listening to K.K. Condor
+Moe is a Male Cat who likes listening to Two Days Ago
+Kevin is a Male Pig who likes listening to K.K. Rockabilly
+Opal is a Female Elephant who likes listening to K.K. Cruisin'
+Amelia is a Female Eagle who likes listening to K.K. Condor
+Bella is a Female Mouse who likes listening to K.K. Metal
+Phoebe is a Female Ostrich who likes listening to K.K. Flamenco
+Angus is a Male Bull who likes listening to K.K. Calypso
+Ed is a Male Horse who likes listening to K.K. Ballad
+Boris is a Male Pig who likes listening to K.K. Oasis
+Snake is a Male Rabbit who likes listening to King K.K.
+Chow is a Male Bear who likes listening to Imperial K.K.
+Rolf is a Male Tiger who likes listening to K.K. Condor
+Octavian is a Male Octopus who likes listening to K.K. D&B
+Gruff is a Male Goat who likes listening to K.K. Rockabilly
+Tabby is a Female Cat who likes listening to DJ K.K.
+Claude is a Male Rabbit who likes listening to Pondering
+Kyle is a Male Wolf who likes listening to K.K. Metal
+Groucho is a Male Bear who likes listening to K.K. Metal
+T-Bone is a Male Bull who likes listening to K.K. Steppe
+Boyd is a Male Gorilla who likes listening to K.K. Groove
+Rodeo is a Male Bull who likes listening to K.K. Technopop
+Weber is a Male Duck who likes listening to K.K. Fusion
+Astrid is a Female Kangaroo who likes listening to K.K. Gumbo
+Gigi is a Female Frog who likes listening to K.K. Swing
+Wolfgang is a Male Wolf who likes listening to K.K. D&B
+Roscoe is a Male Horse who likes listening to K.K. D&B
+Lucha is a Male Bird who likes listening to K.K. Western
+Gonzo is a Male Koala who likes listening to Surfin' K.K.
+Agent S is a Female Squirrel who likes listening to Go K.K. Rider
+Biff is a Male Hippo who likes listening to The K. Funk
+Jacques is a Male Bird who likes listening to K.K. Technopop
+Cherry is a Female Dog who likes listening to K.K. D&B
+Friga is a Female Penguin who likes listening to Farewell
+Rocco is a Male Hippo who likes listening to K.K. Lament
+Rasher is a Male Pig who likes listening to K.K. Rockabilly
+Rizzo is a Male Mouse who likes listening to K.K. Folk
+Static is a Male Squirrel who likes listening to Surfin' K.K.
+Walt is a Male Kangaroo who likes listening to K.K. Lament
+Portia is a Female Dog who likes listening to K.K. Disco
+Broffina is a Female Chicken who likes listening to K.K. Flamenco
+Tiffany is a Female Rabbit who likes listening to K.K. Ragtime
+What would you like to do:
+1.Search(name)
+2.Search(species)
+3.Search(color)
+4.Quit
+3
+Enter a color to search:Red
+Knox is a Male Chicken who likes listening to K.K. Chorale
+Truffles is a Female Pig who likes listening to Neapolitan
+Elvis is a Male Lion who likes listening to K.K. Casbah
+Flo is a Female Penguin who likes listening to Space K.K.
+Frita is a Female Sheep who likes listening to K.K. Rockabilly
+Lucy is a Female Pig who likes listening to K.K. Sonata
+Chops is a Male Pig who likes listening to K.K. Moody
+Ava is a Female Chicken who likes listening to K.K. Love Song
+Olaf is a Male Anteater who likes listening to K.K. Milonga
+Flurry is a Female Hamster who likes listening to Hypno K.K.
+Curlos is a Male Sheep who likes listening to K.K. Salsa
+Apple is a Female Hamster who likes listening to I Love You
+Erik is a Male Deer who likes listening to Drivin'
+Pancetti is a Female Pig who likes listening to K.K. Cruisin'
+Mac is a Male Dog who likes listening to My Place
+Marina is a Female Octopus who likes listening to Soulful K.K.
+Moose is a Male Mouse who likes listening to K.K. Rockabilly
+Leonardo is a Male Tiger who likes listening to K.K. Metal
+Drake is a Male Duck who likes listening to K.K. Blues
+Pinky is a Female Bear who likes listening to Imperial K.K.
+Aurora is a Female Penguin who likes listening to Stale Cupcakes
+Kabuki is a Male Cat who likes listening to K.K. Jongara
+Stinky is a Male Cat who likes listening to K.K. Flamenco
+Cally is a Female Squirrel who likes listening to K.K. Stroll
+Bruce is a Male Deer who likes listening to K.K. Blues
+Rocket is a Female Gorilla who likes listening to K.K. Adventure
+Louie is a Male Gorilla who likes listening to K.K. Fusion
+Grizzly is a Male Bear who likes listening to K.K. Condor
+Soleil is a Female Hamster who likes listening to K.K. Oasis
+Kevin is a Male Pig who likes listening to K.K. Rockabilly
+Pietro is a Male Sheep who likes listening to K.K. Parade
+Hopper is a Male Penguin who likes listening to Comrade K.K.
+Ricky is a Male Squirrel who likes listening to K.K. Safari
+Drift is a Male Frog who likes listening to K.K. Metal
+Colton is a Male Horse who likes listening to K.K. Chorale
+Mathilda is a Female Kangaroo who likes listening to K.K. Chorale
+Rory is a Male Lion who likes listening to K.K. Faire
+Jacob is a Male Bird who likes listening to K.K. Song
+Pashmina is a Female Goat who likes listening to K.K. Disco
+Tutu is a Female Bear who likes listening to Bubblegum K.K.
+Phoebe is a Female Ostrich who likes listening to K.K. Flamenco
+Carrie is a Female Kangaroo who likes listening to I Love You
+Kid Cat is a Male Cat who likes listening to Go K.K. Rider
+Angus is a Male Bull who likes listening to K.K. Calypso
+Kitt is a Female Kangaroo who likes listening to Stale Cupcakes
+Bob is a Male Cat who likes listening to Neapolitan
+Roald is a Male Penguin who likes listening to K.K. March
+June is a Female Cub who likes listening to K.K. Island
+Penelope is a Female Mouse who likes listening to Bubblegum K.K.
+Al is a Male Gorilla who likes listening to Go K.K. Rider
+Buzz is a Male Eagle who likes listening to Drivin'
+Nibbles is a Female Squirrel who likes listening to K.K. Disco
+Simon is a Male Monkey who likes listening to K.K. Safari
+Coach is a Male Bull who likes listening to Mr. K.K.
+Rosie is a Female Cat who likes listening to Bubblegum K.K.
+Anicotti is a Female Mouse who likes listening to Neapolitan
+Hazel is a Female Squirrel who likes listening to DJ K.K.
+Vesta is a Female Sheep who likes listening to Forest Life
+Drago is a Male Alligator who likes listening to Imperial K.K.
+Boyd is a Male Gorilla who likes listening to K.K. Groove
+Puck is a Male Penguin who likes listening to K.K. March
+Rodeo is a Male Bull who likes listening to K.K. Technopop
+Charlise is a Female Bear who likes listening to Mr. K.K.
+Pekoe is a Female Cub who likes listening to Imperial K.K.
+Merengue is a Female Rhino who likes listening to K.K. Ballad
+Iggly is a Male Penguin who likes listening to I Love You
+Bettina is a Female Mouse who likes listening to Animal City
+Phil is a Male Ostrich who likes listening to K.K. Moody
+Alfonso is a Male Alligator who likes listening to Forest Life
+Walker is a Male Dog who likes listening to Two Days Ago
+Margie is a Female Elephant who likes listening to K.K. Marathon
+Croque is a Male Frog who likes listening to K.K. Folk
+Dom is a Male Sheep who likes listening to K.K. Country
+Elise is a Female Monkey who likes listening to K.K. Bossa
+Peck is a Male Bird who likes listening to My Place
+Tank is a Male Rhino who likes listening to K.K. Lament
+Sterling is a Male Eagle who likes listening to K.K. Dirge
+Tammy is a Female Cub who likes listening to DJ K.K.
+Gabi is a Female Rabbit who likes listening to Neapolitan
+Benjamin is a Male Dog who likes listening to Mr. K.K.
+Alice is a Female Koala who likes listening to Aloha K.K.
+Patty is a Female Cow who likes listening to K.K. Calypso
+Samson is a Male Mouse who likes listening to Rockin' K.K.
+Cousteau is a Male Frog who likes listening to Imperial K.K.
+Broffina is a Female Chicken who likes listening to K.K. Flamenco
+Annalisa is a Female Anteater who likes listening to King K.K.
+Chevre is a Female Goat who likes listening to K.K. Chorale
+Mira is a Female Rabbit who likes listening to Go K.K. Rider
+Tiffany is a Female Rabbit who likes listening to K.K. Ragtime
+Peggy is a Female Pig who likes listening to K.K. Bossa
+Wendy is a Female Sheep who likes listening to Space K.K.
+Julia is a Female Ostrich who likes listening to K.K. Sonata
+Peanut is a Female Squirrel who likes listening to Forest Life
+Boone is a Male Gorilla who likes listening to Mountain Song
+Ursala is a Female Bear who likes listening to Café K.K.
+What would you like to do:
+1.Search(name)
+2.Search(species)
+3.Search(color)
+4.Quit
+3
+Enter a color to search:Burgundy
+No Burgundy found
+What would you like to do:
+1.Search(name)
+2.Search(species)
+3.Search(color)
+4.Quit
+5
+Invalid selection. Please enter a valid choice.
+What would you like to do:
+1.Search(name)
+2.Search(species)
+3.Search(color)
+4.Quit
+4
+bash-4.4$ exit
+exit
+
+Script done on 2023-10-27 18:13:51-07:00
