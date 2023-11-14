@@ -1,0 +1,160 @@
+Script started on 2023-11-10 17:52:51-08:00
+bash-4.4$ ./tutorial.out 
+The Basics of Pointers:
+What tutorial would you like to view?
+0.What is a Pointer
+1.Creating a Pointer
+2.Pointing to a Variable
+3.Changing Values
+4.Changing with Functions
+5.Void Pointers
+6.Pointers and Arrays
+7.The Full Tutorial
+8.quit
+3
+POINTERS AND MODIFYING VARIABLES:
+If a pointer is storing the memory address of a variable, we can modify the values stored at that variable's address.
+Consider the following code: 
+int var = 5;
+int *ptr;
+ptr = &var;
+*ptr = 13;
+std::cout << var << std::endl;
+
+What should this code print?
+The answer is: 13
+The value of var has changed, because the value in its address has changed.
+
+What tutorial would you like to view?
+0.What is a Pointer
+1.Creating a Pointer
+2.Pointing to a Variable
+3.Changing Values
+4.Changing with Functions
+5.Void Pointers
+6.Pointers and Arrays
+7.The Full Tutorial
+8.quit
+7
+WHAT IS A POINTER:
+Consider the following line of code:
+
+int var = 5;
+void myFunction(int& var) {
+}
+
+Somewhere in memory, the hexidecimal address of var contains the value 5.
+When myFunction uses var, it uses var's address.
+
+A pointer is a variable which can be used to store a memory address rather than the data at the address. If a pointer was created and 'pointed' at var, it wouldn't store the 5, but rather where the 5 is.
+
+MAKING POINTERS:
+To make a pointer in C++, the '*' is used with a variable declaration to specify it as a pointer.
+Consider this code as an example:
+
+int *ptr
+std::cout << ptr << std::endl;
+
+What should this print?
+The answer is: 0x400bb0
+We can see ptr is storing a memory address.
+However, it's not the address of the ptr. Like a normal variable, if it isn't initialized, the initial data stored will be garbage. The memory address printed is valid, but not useful to us.
+
+USING POINTERS:
+To actually 'point' your pointer at another variable, you can use the '=' to assign it a memory address, and '&' on the variable to denote you want the the memory address data, not the value at the address.
+
+Additionally, we must 'dereference' the pointer to obtain the value in the address. This is done by attaching a * to the front of the pointer.
+
+Consider the following code as an example:
+int *ptr;
+int var = 5;
+ptr = &var;
+std::cout << *ptr << std::endl;
+
+We declare a pointer, ptr, and a variable, var, which is storing the value 5.
+We then use '=' to point ptr at the memory address of var, and * to dereference the pointer when we print it.
+What should this code print?
+The answer is: 5
+The value printed is the value at our var variable location.
+
+POINTERS AND MODIFYING VARIABLES:
+If a pointer is storing the memory address of a variable, we can modify the values stored at that variable's address.
+Consider the following code: 
+int var = 5;
+int *ptr;
+ptr = &var;
+*ptr = 13;
+std::cout << var << std::endl;
+
+What should this code print?
+The answer is: 13
+The value of var has changed, because the value in its address has changed.
+
+POINTERS AND FUNCTIONS:
+We can use pointers with functions just as we use variables. By passing the pointer in the function argument, we can tell a function to work with the data at a memory address, rather than a copy of it.
+
+If this sounds like pass by reference, it's because it is, except now it's being done with pointers. Consider the following code:
+
+void myFunction(int* ptr) {
+    *ptr = 13;
+}
+
+int main() {
+    int var = 5;
+    myfunction(&var);
+    std::cout << var << std::endl;
+}
+
+What should this code print?
+Answer 13
+
+By making a function that could accept a pointer an as argument, we can call the function on another, referenced variable and modify the data at its memory address directly.
+
+VOID POINTERS:
+We can declare 'type-less' pointers, called void pointers.
+These pointers can be pointed at any variable, regardless of their type. We can do this by putting 'void' in place of the determined type like 'int' or 'float'
+
+There is a catch, however: While we can assign a void pointer to any type, we can't dereference it. Instead, we must tell the compiler to convert the pointer to a specific type first to access the data. This can be done like so:
+
+int var = 5;
+void* ptr = &var;
+std::cout<< *(int*)ptr << std::endl;
+
+In this code, we declare a void pointer ptr and give it the address of var. We then use (int*)ptr and convert the stored value to an int, and the * in front of (int*)ptr to dereference the conversion.
+What should that code ouput?
+Answer: 5
+The void pointer, with type conversion, works without issue.
+
+POINTERS AND ARRAYS:
+Pointers and arrays operate on similar principles. Array names function as pointers to the the first element of an array. Because of this, pointers and arrays can interact in fun ways.
+Consider the following code:
+
+int arr[4]= {1,21,19,92};
+int *ptr = arr
+std::cout << *ptr << std::endl;
+std::cout << ptr[3] << std::endl
+ptr[2] = 3;
+std::cout << arr[2] << std::cout.
+
+What should this code print?
+Answer :
+1
+92
+3
+We can see the interesting properties here. When assigned, the pointer is capable of indexing through the array and modifying it directly.This relationship allows some interchangability between pointers and arrays.
+
+What tutorial would you like to view?
+0.What is a Pointer
+1.Creating a Pointer
+2.Pointing to a Variable
+3.Changing Values
+4.Changing with Functions
+5.Void Pointers
+6.Pointers and Arrays
+7.The Full Tutorial
+8.quit
+8
+bash-4.4$ exit
+exit
+
+Script done on 2023-11-10 17:53:21-08:00
